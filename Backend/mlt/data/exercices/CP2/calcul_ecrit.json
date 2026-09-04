@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "consigne": "Koffi a 25 arachides et Ablavi en a 22. Combien d'arachides ont-ils en tout ?",
+    "operande_gauche": 25,
+    "operande_droit": 22,
+    "operation": "addition",
+    "reponse_correcte": "47",
+    "explication": "On aligne et on additionne. Unités : 5 + 2 = 7. Dizaines : 2 + 2 = 4. Total : 47."
+  },
+  {
+    "id": 2,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 48,
+    "operande_droit": 15,
+    "operation": "soustraction",
+    "reponse_correcte": "33",
+    "explication": "On soustrait les unités : 8 - 5 = 3. On soustrait les dizaines : 4 - 1 = 3. Résultat : 33."
+  },
+  {
+    "id": 3,
+    "consigne": "Yawo a 35 FCFA. Il achète un gâteau à 20 FCFA. Combien de FCFA lui reste-t-il ?",
+    "operande_gauche": 35,
+    "operande_droit": 20,
+    "operation": "soustraction",
+    "reponse_correcte": "15",
+    "explication": "On soustrait 20 de 35. Unités : 5 - 0 = 5. Dizaines : 3 - 2 = 1. Il reste 15 FCFA."
+  },
+  {
+    "id": 4,
+    "consigne": "Dans la classe de Kossi, il y a 21 garçons et 24 filles. Quel est le nombre total d'élèves ?",
+    "operande_gauche": 21,
+    "operande_droit": 24,
+    "operation": "addition",
+    "reponse_correcte": "45",
+    "explication": "On additionne les unités : 1 + 4 = 5. Puis les dizaines : 2 + 2 = 4. Il y a 45 élèves."
+  },
+  {
+    "id": 5,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 32,
+    "operande_droit": 16,
+    "operation": "addition",
+    "reponse_correcte": "48",
+    "explication": "Unités : 2 + 6 = 8. Dizaines : 3 + 1 = 4. Le résultat est 48."
+  },
+  {
+    "id": 6,
+    "consigne": "Maman Ama a 45 tomates. Elle en utilise 13 pour la sauce. Combien de tomates lui reste-t-il ?",
+    "operande_gauche": 45,
+    "operande_droit": 13,
+    "operation": "soustraction",
+    "reponse_correcte": "32",
+    "explication": "Unités : 5 - 3 = 2. Dizaines : 4 - 1 = 3. Il reste 32 tomates."
+  },
+  {
+    "id": 7,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 14,
+    "operande_droit": 35,
+    "operation": "addition",
+    "reponse_correcte": "49",
+    "explication": "Unités : 4 + 5 = 9. Dizaines : 1 + 3 = 4. Le résultat est 49."
+  },
+  {
+    "id": 8,
+    "consigne": "Anani ramasse 50 noix de coco. Il en vend 20. Combien de noix de coco lui reste-t-il ?",
+    "operande_gauche": 50,
+    "operande_droit": 20,
+    "operation": "soustraction",
+    "reponse_correcte": "30",
+    "explication": "Unités : 0 - 0 = 0. Dizaines : 5 - 2 = 3. Il reste 30 noix de coco."
+  },
+  {
+    "id": 9,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 23,
+    "operande_droit": 26,
+    "operation": "addition",
+    "reponse_correcte": "49",
+    "explication": "Unités : 3 + 6 = 9. Dizaines : 2 + 2 = 4. Le résultat est 49."
+  },
+  {
+    "id": 10,
+    "consigne": "Sena a 38 moutons dans son enclos. Il en vend 14. Combien de moutons reste-t-il ?",
+    "operande_gauche": 38,
+    "operande_droit": 14,
+    "operation": "soustraction",
+    "reponse_correcte": "24",
+    "explication": "Unités : 8 - 4 = 4. Dizaines : 3 - 1 = 2. Il reste 24 moutons."
+  },
+  {
+    "id": 11,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 11,
+    "operande_droit": 37,
+    "operation": "addition",
+    "reponse_correcte": "48",
+    "explication": "Unités : 1 + 7 = 8. Dizaines : 1 + 3 = 4. Le résultat est 48."
+  },
+  {
+    "id": 12,
+    "consigne": "Kofi a planté 30 pieds de manioc. Son frère en a planté 15. Combien ont-ils planté en tout ?",
+    "operande_gauche": 30,
+    "operande_droit": 15,
+    "operation": "addition",
+    "reponse_correcte": "45",
+    "explication": "Unités : 0 + 5 = 5. Dizaines : 3 + 1 = 4. Ils ont planté 45 pieds de manioc."
+  },
+  {
+    "id": 13,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 49,
+    "operande_droit": 27,
+    "operation": "soustraction",
+    "reponse_correcte": "22",
+    "explication": "Unités : 9 - 7 = 2. Dizaines : 4 - 2 = 2. Le résultat est 22."
+  },
+  {
+    "id": 14,
+    "consigne": "Adjo achète un tissu de 40 mètres. Elle coupe 10 mètres pour une robe. Combien de mètres reste-t-il ?",
+    "operande_gauche": 40,
+    "operande_droit": 10,
+    "operation": "soustraction",
+    "reponse_correcte": "30",
+    "explication": "Unités : 0 - 0 = 0. Dizaines : 4 - 1 = 3. Il reste 30 mètres."
+  },
+  {
+    "id": 15,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 13,
+    "operande_droit": 33,
+    "operation": "addition",
+    "reponse_correcte": "46",
+    "explication": "Unités : 3 + 3 = 6. Dizaines : 1 + 3 = 4. Le résultat est 46."
+  },
+  {
+    "id": 16,
+    "consigne": "Fovi a cueilli 47 oranges. 25 oranges sont douces, les autres sont amères. Combien y a-t-il d'oranges amères ?",
+    "operande_gauche": 47,
+    "operande_droit": 25,
+    "operation": "soustraction",
+    "reponse_correcte": "22",
+    "explication": "Unités : 7 - 5 = 2. Dizaines : 4 - 2 = 2. Il y a 22 oranges amères."
+  },
+  {
+    "id": 17,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 24,
+    "operande_droit": 24,
+    "operation": "addition",
+    "reponse_correcte": "48",
+    "explication": "Unités : 4 + 4 = 8. Dizaines : 2 + 2 = 4. Le résultat est 48."
+  },
+  {
+    "id": 18,
+    "consigne": "Komi a 36 poussins. 15 poussins deviennent des poules. Combien de poussins reste-t-il ?",
+    "operande_gauche": 36,
+    "operande_droit": 15,
+    "operation": "soustraction",
+    "reponse_correcte": "21",
+    "explication": "Unités : 6 - 5 = 1. Dizaines : 3 - 1 = 2. Il reste 21 poussins."
+  },
+  {
+    "id": 19,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 12,
+    "operande_droit": 34,
+    "operation": "addition",
+    "reponse_correcte": "46",
+    "explication": "Unités : 2 + 4 = 6. Dizaines : 1 + 3 = 4. Le résultat est 46."
+  },
+  {
+    "id": 20,
+    "consigne": "Afi a 44 FCFA. Elle trouve une pièce de 5 FCFA par terre. Combien de FCFA a-t-elle maintenant ?",
+    "operande_gauche": 44,
+    "operande_droit": 5,
+    "operation": "addition",
+    "reponse_correcte": "49",
+    "explication": "Unités : 4 + 5 = 9. Dizaines : 4 + 0 = 4. Elle a 49 FCFA."
+  }
+]

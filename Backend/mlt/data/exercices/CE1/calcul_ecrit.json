@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "consigne": "Koffi a 125 FCFA. Sa grand-mère lui donne 53 FCFA. Combien de FCFA a-t-il en tout ?",
+    "operande_gauche": 125,
+    "operande_droit": 53,
+    "operation": "addition",
+    "reponse_correcte": "178",
+    "explication": "Unités : 5 + 3 = 8. Dizaines : 2 + 5 = 7. Centaines : 1 + 0 = 1. Total : 178 FCFA."
+  },
+  {
+    "id": 2,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 189,
+    "operande_droit": 64,
+    "operation": "soustraction",
+    "reponse_correcte": "125",
+    "explication": "Unités : 9 - 4 = 5. Dizaines : 8 - 6 = 2. Centaines : 1 - 0 = 1. Résultat : 125."
+  },
+  {
+    "id": 3,
+    "consigne": "Ama vend des mangues. Elle a 3 paquets de 5 mangues. Combien de mangues a-t-elle en tout ?",
+    "operande_gauche": 5,
+    "operande_droit": 3,
+    "operation": "multiplication",
+    "reponse_correcte": "15",
+    "explication": "On multiplie 5 par 3. 5 x 3 = 15. Elle a 15 mangues."
+  },
+  {
+    "id": 4,
+    "consigne": "Yawo achète un cahier à 140 FCFA et un stylo à 45 FCFA. Combien dépense-t-il au total ?",
+    "operande_gauche": 140,
+    "operande_droit": 45,
+    "operation": "addition",
+    "reponse_correcte": "185",
+    "explication": "Unités : 0 + 5 = 5. Dizaines : 4 + 5 = 9. Centaines : 1 + 0 = 1. Total : 185 FCFA."
+  },
+  {
+    "id": 5,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 32,
+    "operande_droit": 3,
+    "operation": "multiplication",
+    "reponse_correcte": "96",
+    "explication": "On multiplie les unités : 3 x 2 = 6. Puis les dizaines : 3 x 3 = 9. Résultat : 96."
+  },
+  {
+    "id": 6,
+    "consigne": "Ablavi avait 195 FCFA. Elle achète du pain pour 70 FCFA. Combien d'argent lui reste-t-il ?",
+    "operande_gauche": 195,
+    "operande_droit": 70,
+    "operation": "soustraction",
+    "reponse_correcte": "125",
+    "explication": "Unités : 5 - 0 = 5. Dizaines : 9 - 7 = 2. Centaines : 1 - 0 = 1. Il reste 125 FCFA."
+  },
+  {
+    "id": 7,
+    "consigne": "Kossi a 4 rangées de 6 bananiers dans son champ. Combien de bananiers a-t-il au total ?",
+    "operande_gauche": 6,
+    "operande_droit": 4,
+    "operation": "multiplication",
+    "reponse_correcte": "24",
+    "explication": "On fait 6 multiplié par 4. 6 x 4 = 24. Il a 24 bananiers."
+  },
+  {
+    "id": 8,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 112,
+    "operande_droit": 75,
+    "operation": "addition",
+    "reponse_correcte": "187",
+    "explication": "Unités : 2 + 5 = 7. Dizaines : 1 + 7 = 8. Centaines : 1 + 0 = 1. Résultat : 187."
+  },
+  {
+    "id": 9,
+    "consigne": "Un pêcheur d'Aného attrape 168 poissons. Il en vend 58. Combien de poissons lui reste-t-il ?",
+    "operande_gauche": 168,
+    "operande_droit": 58,
+    "operation": "soustraction",
+    "reponse_correcte": "110",
+    "explication": "Unités : 8 - 8 = 0. Dizaines : 6 - 5 = 1. Centaines : 1 - 0 = 1. Il reste 110 poissons."
+  },
+  {
+    "id": 10,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 43,
+    "operande_droit": 2,
+    "operation": "multiplication",
+    "reponse_correcte": "86",
+    "explication": "Unités : 2 x 3 = 6. Dizaines : 2 x 4 = 8. Résultat : 86."
+  },
+  {
+    "id": 11,
+    "consigne": "Sena a 105 billes vertes et 82 billes rouges. Combien de billes a-t-il au total ?",
+    "operande_gauche": 105,
+    "operande_droit": 82,
+    "operation": "addition",
+    "reponse_correcte": "187",
+    "explication": "Unités : 5 + 2 = 7. Dizaines : 0 + 8 = 8. Centaines : 1 + 0 = 1. Total : 187 billes."
+  },
+  {
+    "id": 12,
+    "consigne": "Yawa prépare 4 plats. Elle met 5 morceaux de viande par plat. Combien de morceaux utilise-t-elle ?",
+    "operande_gauche": 5,
+    "operande_droit": 4,
+    "operation": "multiplication",
+    "reponse_correcte": "20",
+    "explication": "On calcule 5 x 4, ce qui fait 20. Elle utilise 20 morceaux de viande."
+  },
+  {
+    "id": 13,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 175,
+    "operande_droit": 42,
+    "operation": "soustraction",
+    "reponse_correcte": "133",
+    "explication": "Unités : 5 - 2 = 3. Dizaines : 7 - 4 = 3. Centaines : 1 - 0 = 1. Résultat : 133."
+  },
+  {
+    "id": 14,
+    "consigne": "Dans un poulailler à Tsévié, il y a 134 poussins. Le fermier en achète 53 de plus. Combien y en a-t-il maintenant ?",
+    "operande_gauche": 134,
+    "operande_droit": 53,
+    "operation": "addition",
+    "reponse_correcte": "187",
+    "explication": "Unités : 4 + 3 = 7. Dizaines : 3 + 5 = 8. Centaines : 1 + 0 = 1. Il y a 187 poussins."
+  },
+  {
+    "id": 15,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 21,
+    "operande_droit": 4,
+    "operation": "multiplication",
+    "reponse_correcte": "84",
+    "explication": "Unités : 4 x 1 = 4. Dizaines : 4 x 2 = 8. Le résultat est 84."
+  },
+  {
+    "id": 16,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 199,
+    "operande_droit": 88,
+    "operation": "soustraction",
+    "reponse_correcte": "111",
+    "explication": "Unités : 9 - 8 = 1. Dizaines : 9 - 8 = 1. Centaines : 1 - 0 = 1. Résultat : 111."
+  },
+  {
+    "id": 17,
+    "consigne": "Adjo vend des pagnes. Elle gagne 50 FCFA par pagne. Si elle vend 3 pagnes, combien gagne-t-elle ?",
+    "operande_gauche": 50,
+    "operande_droit": 3,
+    "operation": "multiplication",
+    "reponse_correcte": "150",
+    "explication": "On multiplie 50 par 3. 50 x 3 = 150. Elle gagne 150 FCFA."
+  },
+  {
+    "id": 18,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 120,
+    "operande_droit": 68,
+    "operation": "addition",
+    "reponse_correcte": "188",
+    "explication": "Unités : 0 + 8 = 8. Dizaines : 2 + 6 = 8. Centaines : 1 + 0 = 1. Résultat : 188."
+  },
+  {
+    "id": 19,
+    "consigne": "Ekoué a 165 ignames. Il en donne 45 à son oncle de Kpalimé. Combien d'ignames lui reste-t-il ?",
+    "operande_gauche": 165,
+    "operande_droit": 45,
+    "operation": "soustraction",
+    "reponse_correcte": "120",
+    "explication": "Unités : 5 - 5 = 0. Dizaines : 6 - 4 = 2. Centaines : 1 - 0 = 1. Il lui reste 120 ignames."
+  },
+  {
+    "id": 20,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 11,
+    "operande_droit": 7,
+    "operation": "multiplication",
+    "reponse_correcte": "77",
+    "explication": "Unités : 7 x 1 = 7. Dizaines : 7 x 1 = 7. Le résultat est 77."
+  }
+]

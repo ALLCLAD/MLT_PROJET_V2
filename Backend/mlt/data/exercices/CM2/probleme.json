@@ -1,0 +1,660 @@
+[
+  {
+    "id": 1,
+    "theme": "La grande plantation de café",
+    "enonce": "Ama possède une plantation de café de 25 750 m². Elle produit 3 875 kg de café par hectare. La plantation est divisée en 5 parcelles égales. Ama vend 40% de sa production à 1 875 FCFA le kg et le reste à 2 125 FCFA le kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle est la surface de chaque parcelle ?",
+        "reponse_correcte": "5150",
+        "unite": "m²",
+        "explication": "On divise : 25 750 / 5 = 5 150 m²."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de café la plantation produit-elle en tout ?",
+        "reponse_correcte": "9970",
+        "unite": "kg",
+        "explication": "25 750 m² = 2,575 hectares. 2,575 × 3 875 = 9 970,625, arrondi à 9 970 kg."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de kg de café Ama vend-elle à 1 875 FCFA le kg ?",
+        "reponse_correcte": "3988",
+        "unite": "kg",
+        "explication": "40% de 9 970 = 9 970 × 40/100 = 3 988 kg."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'argent gagne-t-elle en tout avec la vente du café ?",
+        "reponse_correcte": "20197750",
+        "unite": "FCFA",
+        "explication": "3 988 × 1 875 = 7 477 500 FCFA. 9 970 - 3 988 = 5 982 kg. 5 982 × 2 125 = 12 711 750 FCFA. Total = 7 477 500 + 12 711 750 = 20 189 250 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "La construction de l'école",
+    "enonce": "Koffi est entrepreneur. Il construit une école de 3 étages. Chaque étage a 8 classes. Chaque classe mesure 12 m sur 8 m. Le coût de construction est de 45 000 FCFA par m².",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle est la surface d'une classe ?",
+        "reponse_correcte": "96",
+        "unite": "m²",
+        "explication": "On multiplie : 12 × 8 = 96 m²."
+      },
+      {
+        "sous_id": 2,
+        "question": "Quelle est la surface totale des classes (tous étages confondus) ?",
+        "reponse_correcte": "2304",
+        "unite": "m²",
+        "explication": "3 × 8 = 24 classes. 24 × 96 = 2 304 m²."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien coûte la construction des classes ?",
+        "reponse_correcte": "103680000",
+        "unite": "FCFA",
+        "explication": "2 304 × 45 000 = 103 680 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "Le commerce de pagnes",
+    "enonce": "Ablavi achète 45 pagnes à 4 500 FCFA l'unité. Elle les revend avec un bénéfice de 25% sur le prix d'achat. Elle donne 3 pagnes à sa mère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien Ablavi a-t-elle dépensé pour acheter les pagnes ?",
+        "reponse_correcte": "202500",
+        "unite": "FCFA",
+        "explication": "45 × 4 500 = 202 500 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "À quel prix Ablavi revend-elle chaque pagne ?",
+        "reponse_correcte": "5625",
+        "unite": "FCFA",
+        "explication": "4 500 + 25% de 4 500 = 4 500 + 1 125 = 5 625 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de pagnes Ablavi vend-elle ?",
+        "reponse_correcte": "42",
+        "unite": "pagnes",
+        "explication": "45 - 3 = 42 pagnes."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'argent gagne-t-elle en tout avec la vente des pagnes ?",
+        "reponse_correcte": "236250",
+        "unite": "FCFA",
+        "explication": "42 × 5 625 = 236 250 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Le champ de riz",
+    "enonce": "Yawo a un champ de riz de 18 750 m². Il produit 4,2 tonnes de riz par hectare. Il garde 15% de sa récolte pour sa famille et vend le reste à 225 FCFA le kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle est la surface du champ de Yawo en hectares ?",
+        "reponse_correcte": "1.875",
+        "unite": "hectares",
+        "explication": "18 750 / 10 000 = 1,875 hectares."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de riz Yawo produit-il ?",
+        "reponse_correcte": "7875",
+        "unite": "kg",
+        "explication": "4,2 tonnes = 4 200 kg. 1,875 × 4 200 = 7 875 kg."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de kg de riz garde-t-il pour sa famille ?",
+        "reponse_correcte": "1181",
+        "unite": "kg",
+        "explication": "15% de 7 875 = 7 875 × 15/100 = 1 181,25, arrondi à 1 181 kg."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'argent gagne-t-il en vendant le reste du riz ?",
+        "reponse_correcte": "1506150",
+        "unite": "FCFA",
+        "explication": "7 875 - 1 181 = 6 694 kg. 6 694 × 225 = 1 506 150 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Les vaches de Kossi",
+    "enonce": "Kossi a 250 vaches. Chaque vache produit 22 litres de lait par jour. Il vend le lait à 275 FCFA le litre. Il donne 5% de sa production à l'orphelinat.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de litres de lait Kossi produit-il par jour ?",
+        "reponse_correcte": "5500",
+        "unite": "litres",
+        "explication": "250 × 22 = 5 500 litres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de litres de lait donne-t-il à l'orphelinat par jour ?",
+        "reponse_correcte": "275",
+        "unite": "litres",
+        "explication": "5% de 5 500 = 5 500 × 5/100 = 275 litres."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de litres de lait vend-il par jour ?",
+        "reponse_correcte": "5225",
+        "unite": "litres",
+        "explication": "5 500 - 275 = 5 225 litres."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'argent gagne-t-il par jour avec la vente du lait ?",
+        "reponse_correcte": "1436875",
+        "unite": "FCFA",
+        "explication": "5 225 × 275 = 1 436 875 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "La construction du pont",
+    "enonce": "Edem dirige la construction d'un pont de 125 m de long. Le pont est soutenu par 8 piliers espacés régulièrement. Chaque pilier coûte 1 875 000 FCFA. La main-d'œuvre coûte 18 750 000 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle est la distance entre chaque pilier ?",
+        "reponse_correcte": "15.625",
+        "unite": "m",
+        "explication": "125 / 8 = 15,625 m."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien coûtent les 8 piliers ?",
+        "reponse_correcte": "15000000",
+        "unite": "FCFA",
+        "explication": "8 × 1 875 000 = 15 000 000 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Quel est le coût total de la construction du pont ?",
+        "reponse_correcte": "33750000",
+        "unite": "FCFA",
+        "explication": "15 000 000 + 18 750 000 = 33 750 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Les mangues de la coopérative",
+    "enonce": "La coopérative de Kafui produit 32 450 kg de mangues. Elle vend 45% de sa production à une usine de jus, 35% au marché local et le reste est transformé en mangues séchées.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de mangues la coopérative vend-elle à l'usine de jus ?",
+        "reponse_correcte": "14602.5",
+        "unite": "kg",
+        "explication": "45% de 32 450 = 32 450 × 45/100 = 14 602,5 kg."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de mangues vend-elle au marché local ?",
+        "reponse_correcte": "11357.5",
+        "unite": "kg",
+        "explication": "35% de 32 450 = 32 450 × 35/100 = 11 357,5 kg."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de kg de mangues sont transformés en mangues séchées ?",
+        "reponse_correcte": "6490",
+        "unite": "kg",
+        "explication": "32 450 - 14 602,5 - 11 357,5 = 6 490 kg."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "L'achat de terrain",
+    "enonce": "Koffi achète un terrain de 45 000 m² à 2 500 FCFA le m². Il paie 30% comptant et le reste en 24 mensualités égales.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûte le terrain ?",
+        "reponse_correcte": "112500000",
+        "unite": "FCFA",
+        "explication": "45 000 × 2 500 = 112 500 000 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien Koffi paie-t-il comptant ?",
+        "reponse_correcte": "33750000",
+        "unite": "FCFA",
+        "explication": "30% de 112 500 000 = 33 750 000 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien lui reste-t-il à payer ?",
+        "reponse_correcte": "78750000",
+        "unite": "FCFA",
+        "explication": "112 500 000 - 33 750 000 = 78 750 000 FCFA."
+      },
+      {
+        "sous_id": 4,
+        "question": "Quel est le montant de chaque mensualité ?",
+        "reponse_correcte": "3281250",
+        "unite": "FCFA",
+        "explication": "78 750 000 / 24 = 3 281 250 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "La plantation de cacao",
+    "enonce": "Yawo a une plantation de cacao de 15,5 hectares. Chaque hectare produit 1 850 kg de cacao. Il vend 60% de sa production à 1 250 FCFA le kg et le reste à 1 450 FCFA le kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de cacao Yawo produit-il ?",
+        "reponse_correcte": "28675",
+        "unite": "kg",
+        "explication": "15,5 × 1 850 = 28 675 kg."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de cacao vend-il à 1 250 FCFA le kg ?",
+        "reponse_correcte": "17205",
+        "unite": "kg",
+        "explication": "60% de 28 675 = 28 675 × 60/100 = 17 205 kg."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de kg de cacao vend-il à 1 450 FCFA le kg ?",
+        "reponse_correcte": "11470",
+        "unite": "kg",
+        "explication": "28 675 - 17 205 = 11 470 kg."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'argent gagne-t-il en tout avec la vente du cacao ?",
+        "reponse_correcte": "38142250",
+        "unite": "FCFA",
+        "explication": "17 205 × 1 250 = 21 506 250 FCFA. 11 470 × 1 450 = 16 631 500 FCFA. Total = 21 506 250 + 16 631 500 = 38 137 750 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Les pièces de la collection",
+    "enonce": "Kossi collectionne les pièces de monnaie anciennes. Il a 3 456 pièces. Il les range dans des albums de 48 pièces chacun. Il donne 15% de sa collection à son frère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de pièces Kossi donne-t-il à son frère ?",
+        "reponse_correcte": "518.4",
+        "unite": "pièces",
+        "explication": "15% de 3 456 = 3 456 × 15/100 = 518,4 pièces."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de pièces lui reste-t-il ?",
+        "reponse_correcte": "2937.6",
+        "unite": "pièces",
+        "explication": "3 456 - 518,4 = 2 937,6 pièces."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien d'albums complets peut-il remplir avec les pièces restantes ?",
+        "reponse_correcte": "61",
+        "unite": "albums",
+        "explication": "2 937,6 / 48 = 61,2, donc 61 albums complets."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien de pièces lui reste-t-il après avoir rempli les albums ?",
+        "reponse_correcte": "9.6",
+        "unite": "pièces",
+        "explication": "2 937,6 - 61 × 48 = 2 937,6 - 2 928 = 9,6 pièces."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "La traversée du fleuve",
+    "enonce": "Ama traverse un fleuve de 2 450 m de large en pirogue. Elle avance à 3,5 km/h. Le courant la fait dériver de 12 m par minute.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de temps Ama met-elle pour traverser le fleuve en minutes ?",
+        "reponse_correcte": "42",
+        "unite": "minutes",
+        "explication": "2 450 m = 2,45 km. 2,45 / 3,5 = 0,7 heure. 0,7 × 60 = 42 minutes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de mètres Ama dérive-t-elle pendant la traversée ?",
+        "reponse_correcte": "504",
+        "unite": "m",
+        "explication": "42 × 12 = 504 m."
+      },
+      {
+        "sous_id": 3,
+        "question": "Quelle est la distance réelle parcourue par la pirogue ?",
+        "reponse_correcte": "2501.3",
+        "unite": "m",
+        "explication": "√(2 450² + 504²) = √(6 002 500 + 254 016) = √6 256 516 ≈ 2 501,3 m."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Les oranges de la coopérative",
+    "enonce": "Edem est le président d'une coopérative d'orangers. La coopérative produit 45 000 kg d'oranges par an. Chaque arbre donne 75 kg d'oranges. Il y a 600 arbres dans la plantation.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg d'oranges la coopérative devrait-elle produire si chaque arbre donne 75 kg ?",
+        "reponse_correcte": "45000",
+        "unite": "kg",
+        "explication": "600 × 75 = 45 000 kg. C'est exactement la production annoncée."
+      },
+      {
+        "sous_id": 2,
+        "question": "La coopérative vend 60% de sa production à 325 FCFA le kg. Combien gagne-t-elle ?",
+        "reponse_correcte": "8775000",
+        "unite": "FCFA",
+        "explication": "60% de 45 000 = 27 000 kg. 27 000 × 325 = 8 775 000 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Le reste de la production (40%) est vendu à 275 FCFA le kg. Combien gagne-t-elle ?",
+        "reponse_correcte": "4950000",
+        "unite": "FCFA",
+        "explication": "40% de 45 000 = 18 000 kg. 18 000 × 275 = 4 950 000 FCFA."
+      },
+      {
+        "sous_id": 4,
+        "question": "Quel est le revenu total de la coopérative pour l'année ?",
+        "reponse_correcte": "13725000",
+        "unite": "FCFA",
+        "explication": "8 775 000 + 4 950 000 = 13 725 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Les briques du four",
+    "enonce": "Kafui fabrique des briques. Chaque brique mesure 25 cm × 12 cm × 8 cm. Elle doit construire un mur de 5 m de long, 3 m de haut et 0,5 m de large.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quel est le volume du mur en cm³ ?",
+        "reponse_correcte": "18750000",
+        "unite": "cm³",
+        "explication": "5 m = 500 cm, 3 m = 300 cm, 0,5 m = 50 cm. 500 × 300 × 50 = 7 500 000 cm³."
+      },
+      {
+        "sous_id": 2,
+        "question": "Quel est le volume d'une brique en cm³ ?",
+        "reponse_correcte": "2400",
+        "unite": "cm³",
+        "explication": "25 × 12 × 8 = 2 400 cm³."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de briques Kafui a-t-elle besoin pour construire le mur ?",
+        "reponse_correcte": "3125",
+        "unite": "briques",
+        "explication": "7 500 000 / 2 400 = 3 125 briques."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Les poissons de l'étang",
+    "enonce": "Koffi a un étang de 1 250 m². Chaque m² contient en moyenne 3,5 poissons. Il pêche 40% des poissons chaque mois. Chaque poisson pèse en moyenne 1,8 kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poissons l'étang contient-il en tout ?",
+        "reponse_correcte": "4375",
+        "unite": "poissons",
+        "explication": "1 250 × 3,5 = 4 375 poissons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poissons Koffi pêche-t-il chaque mois ?",
+        "reponse_correcte": "1750",
+        "unite": "poissons",
+        "explication": "40% de 4 375 = 4 375 × 40/100 = 1 750 poissons."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de kg de poissons pêche-t-il chaque mois ?",
+        "reponse_correcte": "3150",
+        "unite": "kg",
+        "explication": "1 750 × 1,8 = 3 150 kg."
+      },
+      {
+        "sous_id": 4,
+        "question": "Si Koffi vend les poissons à 875 FCFA le kg, combien gagne-t-il par mois ?",
+        "reponse_correcte": "2756250",
+        "unite": "FCFA",
+        "explication": "3 150 × 875 = 2 756 250 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Les noix de karité",
+    "enonce": "Yawo ramasse 12 450 kg de noix de karité. Il en fait du beurre de karité. 5 kg de noix donnent 1 kg de beurre. Il vend le beurre à 1 875 FCFA le kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de beurre de karité Yawo peut-il produire ?",
+        "reponse_correcte": "2490",
+        "unite": "kg",
+        "explication": "12 450 / 5 = 2 490 kg de beurre."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'argent gagne-t-il en vendant tout le beurre ?",
+        "reponse_correcte": "4668750",
+        "unite": "FCFA",
+        "explication": "2 490 × 1 875 = 4 668 750 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "S'il donne 15% de sa production à sa famille, combien de kg de beurre donne-t-il ?",
+        "reponse_correcte": "373.5",
+        "unite": "kg",
+        "explication": "15% de 2 490 = 2 490 × 15/100 = 373,5 kg."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien de kg de beurre lui reste-t-il à vendre ?",
+        "reponse_correcte": "2116.5",
+        "unite": "kg",
+        "explication": "2 490 - 373,5 = 2 116,5 kg."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Le voyage en train",
+    "enonce": "Le train de Lomé à Kara parcourt 456 km. Il part à 7h30 et arrive à 12h45. Il fait 3 arrêts de 5 minutes chacun. La vitesse moyenne est de 80 km/h.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de temps dure le trajet total (de départ à arrivée) ?",
+        "reponse_correcte": "315",
+        "unite": "minutes",
+        "explication": "12h45 - 7h30 = 5h15 = 315 minutes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de temps les arrêts durent-ils en tout ?",
+        "reponse_correcte": "15",
+        "unite": "minutes",
+        "explication": "3 × 5 = 15 minutes."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de temps le train roule-t-il vraiment ?",
+        "reponse_correcte": "300",
+        "unite": "minutes",
+        "explication": "315 - 15 = 300 minutes = 5 heures."
+      },
+      {
+        "sous_id": 4,
+        "question": "À quelle vitesse le train devrait-il rouler pour parcourir la distance en 4h30 ?",
+        "reponse_correcte": "101.33",
+        "unite": "km/h",
+        "explication": "456 / 4,5 = 101,33 km/h."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Les sacs de ciment",
+    "enonce": "Kossi transporte 875 sacs de ciment. Chaque sac pèse 32,5 kg. Le camion peut transporter 12,5 tonnes. Il fait 3 voyages.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quel est le poids total des 875 sacs de ciment en kg ?",
+        "reponse_correcte": "28437.5",
+        "unite": "kg",
+        "explication": "875 × 32,5 = 28 437,5 kg."
+      },
+      {
+        "sous_id": 2,
+        "question": "Quelle est la capacité du camion en kg ?",
+        "reponse_correcte": "12500",
+        "unite": "kg",
+        "explication": "12,5 tonnes = 12 500 kg."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de sacs le camion peut-il transporter par voyage ?",
+        "reponse_correcte": "384",
+        "unite": "sacs",
+        "explication": "12 500 / 32,5 = 384,61, donc 384 sacs maximum par voyage."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien de voyages seront-ils nécessaires pour transporter tous les sacs ?",
+        "reponse_correcte": "3",
+        "unite": "voyages",
+        "explication": "875 sacs / 384 = 2,28, donc 3 voyages sont nécessaires."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Les lampes solaires",
+    "enonce": "Ama achète 125 lampes solaires à 12 500 FCFA l'unité. Elle les revend avec un bénéfice de 18%. Elle donne 8 lampes à l'école du village.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien Ama a-t-elle dépensé pour acheter les lampes ?",
+        "reponse_correcte": "1562500",
+        "unite": "FCFA",
+        "explication": "125 × 12 500 = 1 562 500 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "À quel prix Ama revend-elle chaque lampe ?",
+        "reponse_correcte": "14750",
+        "unite": "FCFA",
+        "explication": "12 500 + 18% de 12 500 = 12 500 + 2 250 = 14 750 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de lampes Ama vend-elle ?",
+        "reponse_correcte": "117",
+        "unite": "lampes",
+        "explication": "125 - 8 = 117 lampes."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'argent gagne-t-elle avec la vente des lampes ?",
+        "reponse_correcte": "1725750",
+        "unite": "FCFA",
+        "explication": "117 × 14 750 = 1 725 750 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Les arbres à planter",
+    "enonce": "Kafui doit planter 3 456 arbres dans une forêt. Elle plante 24 arbres par heure pendant 8 heures par jour. Elle a déjà planté 1 200 arbres.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'arbres Kafui plante-t-elle par jour ?",
+        "reponse_correcte": "192",
+        "unite": "arbres",
+        "explication": "24 × 8 = 192 arbres par jour."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'arbres lui reste-t-il à planter ?",
+        "reponse_correcte": "2256",
+        "unite": "arbres",
+        "explication": "3 456 - 1 200 = 2 256 arbres."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de jours lui faudra-t-il pour planter le reste des arbres ?",
+        "reponse_correcte": "11.75",
+        "unite": "jours",
+        "explication": "2 256 / 192 = 11,75 jours, donc 12 jours."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Le budget de la mairie",
+    "enonce": "La mairie de Kpalimé a un budget de 125 000 000 FCFA. Elle dépense 35% pour l'éducation, 25% pour la santé, 20% pour les routes et le reste pour d'autres services.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien la mairie dépense-t-elle pour l'éducation ?",
+        "reponse_correcte": "43750000",
+        "unite": "FCFA",
+        "explication": "35% de 125 000 000 = 125 000 000 × 35/100 = 43 750 000 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien dépense-t-elle pour la santé ?",
+        "reponse_correcte": "31250000",
+        "unite": "FCFA",
+        "explication": "25% de 125 000 000 = 125 000 000 × 25/100 = 31 250 000 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien dépense-t-elle pour les routes ?",
+        "reponse_correcte": "25000000",
+        "unite": "FCFA",
+        "explication": "20% de 125 000 000 = 125 000 000 × 20/100 = 25 000 000 FCFA."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien reste-t-il pour d'autres services ?",
+        "reponse_correcte": "25000000",
+        "unite": "FCFA",
+        "explication": "125 000 000 - 43 750 000 - 31 250 000 - 25 000 000 = 25 000 000 FCFA."
+      }
+    ]
+  }
+]

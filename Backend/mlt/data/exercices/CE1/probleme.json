@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "theme": "Le marché de Kpalimé",
+    "enonce": "Koffi va au marché avec 2 500 FCFA. Il achète un sac de riz à 1 200 FCFA et 3 oranges à 50 FCFA chacune.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quel est le prix total des 3 oranges ?",
+        "reponse_correcte": "150",
+        "unite": "FCFA",
+        "explication": "On multiplie : 3 × 50 = 150 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien Koffi a-t-il dépensé en tout ?",
+        "reponse_correcte": "1350",
+        "unite": "FCFA",
+        "explication": "On additionne : 1 200 + 150 = 1 350 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien lui reste-t-il après ses achats ?",
+        "reponse_correcte": "1150",
+        "unite": "FCFA",
+        "explication": "On soustrait : 2 500 - 1 350 = 1 150 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "La couture",
+    "enonce": "Ablavi achète 8 mètres de pagne à 350 FCFA le mètre et 5 mètres de tissu à 200 FCFA le mètre.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 8 mètres de pagne ?",
+        "reponse_correcte": "2800",
+        "unite": "FCFA",
+        "explication": "On multiplie : 8 × 350 = 2 800 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien coûtent les 5 mètres de tissu ?",
+        "reponse_correcte": "1000",
+        "unite": "FCFA",
+        "explication": "On multiplie : 5 × 200 = 1 000 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien a-t-elle dépensé en tout ?",
+        "reponse_correcte": "3800",
+        "unite": "FCFA",
+        "explication": "On additionne : 2 800 + 1 000 = 3 800 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "La récolte d'ignames",
+    "enonce": "Yawo récolte 45 ignames dans son champ. Il en donne 12 à sa mère, 8 à sa tante et vend le reste.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'ignames Yawo donne-t-il à sa mère ?",
+        "reponse_correcte": "12",
+        "unite": "ignames",
+        "explication": "Il donne 12 ignames à sa mère."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'ignames donne-t-il à sa tante ?",
+        "reponse_correcte": "8",
+        "unite": "ignames",
+        "explication": "Il donne 8 ignames à sa tante."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien d'ignames donne-t-il en tout ?",
+        "reponse_correcte": "20",
+        "unite": "ignames",
+        "explication": "On additionne : 12 + 8 = 20 ignames."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'ignames vend-il ?",
+        "reponse_correcte": "25",
+        "unite": "ignames",
+        "explication": "On soustrait : 45 - 20 = 25 ignames."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Les œufs au marché",
+    "enonce": "Kossi vend des œufs au marché. Il a 80 œufs. Il vend 35 œufs le matin et 28 l'après-midi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'œufs Kossi vend-il le matin ?",
+        "reponse_correcte": "35",
+        "unite": "œufs",
+        "explication": "Il vend 35 œufs le matin."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'œufs vend-il l'après-midi ?",
+        "reponse_correcte": "28",
+        "unite": "œufs",
+        "explication": "Il vend 28 œufs l'après-midi."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien d'œufs a-t-il vendus en tout ?",
+        "reponse_correcte": "63",
+        "unite": "œufs",
+        "explication": "On additionne : 35 + 28 = 63 œufs."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'œufs lui reste-t-il ?",
+        "reponse_correcte": "17",
+        "unite": "œufs",
+        "explication": "On soustrait : 80 - 63 = 17 œufs."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Les bouteilles d'eau",
+    "enonce": "Edem achète 6 packs d'eau. Chaque pack contient 12 bouteilles. Il boit 8 bouteilles par jour.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de bouteilles d'eau Edem a-t-il en tout ?",
+        "reponse_correcte": "72",
+        "unite": "bouteilles",
+        "explication": "On multiplie : 6 × 12 = 72 bouteilles."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de bouteilles boit-il en 3 jours ?",
+        "reponse_correcte": "24",
+        "unite": "bouteilles",
+        "explication": "On multiplie : 8 × 3 = 24 bouteilles."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de bouteilles lui reste-t-il après 3 jours ?",
+        "reponse_correcte": "48",
+        "unite": "bouteilles",
+        "explication": "On soustrait : 72 - 24 = 48 bouteilles."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Les pagnes de Kafui",
+    "enonce": "Kafui achète 4 pagnes à 1 500 FCFA chacun. Elle paie avec un billet de 10 000 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quel est le prix total des 4 pagnes ?",
+        "reponse_correcte": "6000",
+        "unite": "FCFA",
+        "explication": "On multiplie : 4 × 1 500 = 6 000 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien la vendeuse doit-elle lui rendre ?",
+        "reponse_correcte": "4000",
+        "unite": "FCFA",
+        "explication": "On soustrait : 10 000 - 6 000 = 4 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Le champ de tomates",
+    "enonce": "Ama a un champ de tomates. Elle récolte 156 tomates. Elle en vend 89 au marché.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de tomates Ama vend-elle ?",
+        "reponse_correcte": "89",
+        "unite": "tomates",
+        "explication": "Elle vend 89 tomates."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de tomates lui reste-t-il ?",
+        "reponse_correcte": "67",
+        "unite": "tomates",
+        "explication": "On soustrait : 156 - 89 = 67 tomates."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Les cahiers de la rentrée",
+    "enonce": "Koffi achète 6 cahiers à 175 FCFA chacun et 3 stylos à 125 FCFA chacun.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 6 cahiers ?",
+        "reponse_correcte": "1050",
+        "unite": "FCFA",
+        "explication": "On multiplie : 6 × 175 = 1 050 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien coûtent les 3 stylos ?",
+        "reponse_correcte": "375",
+        "unite": "FCFA",
+        "explication": "On multiplie : 3 × 125 = 375 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien a-t-il dépensé en tout ?",
+        "reponse_correcte": "1425",
+        "unite": "FCFA",
+        "explication": "On additionne : 1 050 + 375 = 1 425 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "La distribution de gâteaux",
+    "enonce": "Ablavi prépare 84 gâteaux. Elle les répartit également dans 7 paniers.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien y a-t-il de paniers ?",
+        "reponse_correcte": "7",
+        "unite": "paniers",
+        "explication": "Elle les répartit dans 7 paniers."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de gâteaux y a-t-il dans chaque panier ?",
+        "reponse_correcte": "12",
+        "unite": "gâteaux",
+        "explication": "On divise : 84 / 7 = 12 gâteaux."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Les noix de palme",
+    "enonce": "Yawo ramasse 235 noix de palme. Il en donne 87 à sa mère et 96 à sa grand-mère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de noix Yawo donne-t-il à sa mère ?",
+        "reponse_correcte": "87",
+        "unite": "noix",
+        "explication": "Il donne 87 noix à sa mère."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de noix donne-t-il à sa grand-mère ?",
+        "reponse_correcte": "96",
+        "unite": "noix",
+        "explication": "Il donne 96 noix à sa grand-mère."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de noix donne-t-il en tout ?",
+        "reponse_correcte": "183",
+        "unite": "noix",
+        "explication": "On additionne : 87 + 96 = 183 noix."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien de noix lui reste-t-il ?",
+        "reponse_correcte": "52",
+        "unite": "noix",
+        "explication": "On soustrait : 235 - 183 = 52 noix."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Les tourne-disques de l'école",
+    "enonce": "L'école de Kossi a acheté 5 tourne-disques à 2 300 FCFA chacun.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quel est le prix d'un tourne-disque ?",
+        "reponse_correcte": "2300",
+        "unite": "FCFA",
+        "explication": "Chaque tourne-disque coûte 2 300 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien l'école a-t-elle dépensé pour les 5 tourne-disques ?",
+        "reponse_correcte": "11500",
+        "unite": "FCFA",
+        "explication": "On multiplie : 5 × 2 300 = 11 500 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Les mangues de Kpalimé",
+    "enonce": "Koffi vend des mangues. Il en vend 48 le lundi, 52 le mardi et 37 le mercredi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de mangues Koffi vend-il le lundi ?",
+        "reponse_correcte": "48",
+        "unite": "mangues",
+        "explication": "Il vend 48 mangues le lundi."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de mangues vend-il le mardi ?",
+        "reponse_correcte": "52",
+        "unite": "mangues",
+        "explication": "Il vend 52 mangues le mardi."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de mangues a-t-il vendues en trois jours ?",
+        "reponse_correcte": "137",
+        "unite": "mangues",
+        "explication": "On additionne : 48 + 52 + 37 = 137 mangues."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "La charrette de bananes",
+    "enonce": "Edem transporte 3 régimes de bananes. Chaque régime contient 25 bananes.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien y a-t-il de bananes dans un régime ?",
+        "reponse_correcte": "25",
+        "unite": "bananes",
+        "explication": "Chaque régime contient 25 bananes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de bananes Edem transporte-t-il en tout ?",
+        "reponse_correcte": "75",
+        "unite": "bananes",
+        "explication": "On multiplie : 3 × 25 = 75 bananes."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Les pièces de monnaie",
+    "enonce": "Ama a 175 pièces de 1 FCFA. Elle veut les échanger en pièces de 5 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de pièces de 5 FCFA aura-t-elle ?",
+        "reponse_correcte": "35",
+        "unite": "pièces",
+        "explication": "On divise : 175 / 5 = 35 pièces de 5 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "La plantation de manioc",
+    "enonce": "Yawo plante 7 rangées de manioc. Chaque rangée a 18 plants.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de plants de manioc Yawo a-t-il plantés ?",
+        "reponse_correcte": "126",
+        "unite": "plants",
+        "explication": "On multiplie : 7 × 18 = 126 plants."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Les poulets de Kossi",
+    "enonce": "Kossi a 56 poulets. Il les répartit dans 4 enclos, avec le même nombre de poulets dans chaque enclos.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien y a-t-il de poulets par enclos ?",
+        "reponse_correcte": "14",
+        "unite": "poulets",
+        "explication": "On divise : 56 / 4 = 14 poulets par enclos."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Les vêtements",
+    "enonce": "Ablavi coud des robes. Chaque robe nécessite 3 mètres de tissu. Elle a 27 mètres de tissu.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de robes Ablavi peut-elle coudre ?",
+        "reponse_correcte": "9",
+        "unite": "robes",
+        "explication": "On divise : 27 / 3 = 9 robes."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Le pain du marché",
+    "enonce": "Kafui achète 9 pains à 125 FCFA chacun. Elle donne 1 500 FCFA à la vendeuse.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 9 pains ?",
+        "reponse_correcte": "1125",
+        "unite": "FCFA",
+        "explication": "On multiplie : 9 × 125 = 1 125 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien la vendeuse doit-elle lui rendre ?",
+        "reponse_correcte": "375",
+        "unite": "FCFA",
+        "explication": "On soustrait : 1 500 - 1 125 = 375 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Le transport",
+    "enonce": "Edem parcourt 3 km pour aller à l'école. Il fait l'aller-retour chaque jour pendant 5 jours.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle distance Edem parcourt-il par jour (aller-retour) ?",
+        "reponse_correcte": "6",
+        "unite": "km",
+        "explication": "On additionne : 3 + 3 = 6 km par jour."
+      },
+      {
+        "sous_id": 2,
+        "question": "Quelle distance parcourt-il en 5 jours ?",
+        "reponse_correcte": "30",
+        "unite": "km",
+        "explication": "On multiplie : 6 × 5 = 30 km."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Les fleurs du jardin",
+    "enonce": "Ama a 132 fleurs dans son jardin. Elle veut les mettre dans des bouquets de 12 fleurs chacun.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de bouquets Ama peut-elle faire ?",
+        "reponse_correcte": "11",
+        "unite": "bouquets",
+        "explication": "On divise : 132 / 12 = 11 bouquets."
+      }
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "consigne": "Pose et effectue cette addition avec retenue :",
+    "operande_gauche": 4585,
+    "operande_droit": 2738,
+    "operation": "addition",
+    "reponse_correcte": "7323",
+    "explication": "5+8=13 (on pose 3, retient 1); 8+3+1=12 (on pose 2, retient 1); 5+7+1=13 (on pose 3, retient 1); 4+2+1=7. Résultat : 7323."
+  },
+  {
+    "id": 2,
+    "consigne": "Koffi a 8500 FCFA. Il achète un sac de ciment à 4750 FCFA. Combien lui reste-t-il ?",
+    "operande_gauche": 8500,
+    "operande_droit": 4750,
+    "operation": "soustraction",
+    "reponse_correcte": "3750",
+    "explication": "0-0=0; 0-5 impossible, 10-5=5 (retenue 1); 5-8 impossible, 15-8=7 (retenue 1); 8-5=3. Il reste 3750 FCFA."
+  },
+  {
+    "id": 3,
+    "consigne": "Pose et effectue cette multiplication par un nombre à deux chiffres :",
+    "operande_gauche": 345,
+    "operande_droit": 25,
+    "operation": "multiplication",
+    "reponse_correcte": "8625",
+    "explication": "345 x 5 = 1725. 345 x 20 = 6900. On additionne : 1725 + 6900 = 8625."
+  },
+  {
+    "id": 4,
+    "consigne": "Ablavi partage équitablement 48 bananes entre ses 4 enfants. Combien de bananes aura chaque enfant ?",
+    "operande_gauche": 48,
+    "operande_droit": 4,
+    "operation": "division",
+    "reponse_correcte": "12",
+    "explication": "On divise 48 par 4. En 4 combien de fois 4 ? 1 fois. En 8 combien de fois 4 ? 2 fois. Chaque enfant reçoit 12 bananes."
+  },
+  {
+    "id": 5,
+    "consigne": "Une coopérative agricole à Kpalimé récolte 12450 kg de café le lundi et 9850 kg le mardi. Quelle est la récolte totale ?",
+    "operande_gauche": 12450,
+    "operande_droit": 9850,
+    "operation": "addition",
+    "reponse_correcte": "22300",
+    "explication": "En posant l'addition avec les retenues, on obtient 12450 + 9850 = 22300 kg."
+  },
+  {
+    "id": 6,
+    "consigne": "Pose et effectue cette soustraction avec retenue :",
+    "operande_gauche": 15000,
+    "operande_droit": 6350,
+    "operation": "soustraction",
+    "reponse_correcte": "8650",
+    "explication": "On effectue la soustraction colonne par colonne avec la gestion des retenues successives. Résultat : 8650."
+  },
+  {
+    "id": 7,
+    "consigne": "Un camion transporte 45 caisses de tomates. Chaque caisse pèse 15 kg. Quel est le poids total des caisses ?",
+    "operande_gauche": 45,
+    "operande_droit": 15,
+    "operation": "multiplication",
+    "reponse_correcte": "675",
+    "explication": "45 x 5 = 225. 45 x 10 = 450. 225 + 450 = 675. Le poids total est de 675 kg."
+  },
+  {
+    "id": 8,
+    "consigne": "Ama distribue 75 cahiers à 5 écoles de Lomé. Chaque école reçoit le même nombre. Combien de cahiers reçoit chaque école ?",
+    "operande_gauche": 75,
+    "operande_droit": 5,
+    "operation": "division",
+    "reponse_correcte": "15",
+    "explication": "En 7 combien de fois 5 ? 1 fois, il reste 2. On abaisse le 5 : en 25 combien de fois 5 ? 5 fois. Résultat : 15."
+  },
+  {
+    "id": 9,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 28670,
+    "operande_droit": 14550,
+    "operation": "addition",
+    "reponse_correcte": "43220",
+    "explication": "On aligne bien les chiffres et on effectue la somme en reportant correctement les retenues. Le total fait 43220."
+  },
+  {
+    "id": 10,
+    "consigne": "Un commerçant de Kara a 25600 FCFA en caisse. Il paie son fournisseur 12850 FCFA. Combien lui reste-t-il ?",
+    "operande_gauche": 25600,
+    "operande_droit": 12850,
+    "operation": "soustraction",
+    "reponse_correcte": "12750",
+    "explication": "En posant correctement la soustraction avec retenues, on trouve 25600 - 12850 = 12750 FCFA."
+  },
+  {
+    "id": 11,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 1250,
+    "operande_droit": 12,
+    "operation": "multiplication",
+    "reponse_correcte": "15000",
+    "explication": "1250 x 2 = 2500. 1250 x 10 = 12500. 2500 + 12500 = 15000."
+  },
+  {
+    "id": 12,
+    "consigne": "Un menuisier doit fabriquer 96 chaises. Il travaille avec 8 ouvriers. Combien de chaises chaque ouvrier doit-il faire ?",
+    "operande_gauche": 96,
+    "operande_droit": 8,
+    "operation": "division",
+    "reponse_correcte": "12",
+    "explication": "96 divisé par 8. En 9 il y a 1 fois 8 (reste 1). En 16 il y a 2 fois 8. Chaque ouvrier fait 12 chaises."
+  },
+  {
+    "id": 13,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 75400,
+    "operande_droit": 18900,
+    "operation": "addition",
+    "reponse_correcte": "94300",
+    "explication": "On additionne les colonnes : 0+0=0, 0+0=0, 4+9=13 (retient 1), 5+8+1=14 (retient 1), 7+1+1=9. Total : 94300."
+  },
+  {
+    "id": 14,
+    "consigne": "Un grand marché stocke 48500 régimes de bananes. 19200 régimes sont vendus. Combien en reste-t-il ?",
+    "operande_gauche": 48500,
+    "operande_droit": 19200,
+    "operation": "soustraction",
+    "reponse_correcte": "29300",
+    "explication": "Soustraction colonne par colonne : 48500 - 19200 = 29300 régimes restants."
+  },
+  {
+    "id": 15,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 624,
+    "operande_droit": 32,
+    "operation": "multiplication",
+    "reponse_correcte": "19968",
+    "explication": "624 x 2 = 1248. 624 x 30 = 18720. 1248 + 18720 = 19968."
+  },
+  {
+    "id": 16,
+    "consigne": "Le directeur d'une école achète 84 craies et les partage en 6 boîtes égales. Combien de craies met-il par boîte ?",
+    "operande_gauche": 84,
+    "operande_droit": 6,
+    "operation": "division",
+    "reponse_correcte": "14",
+    "explication": "84 divisé par 6. En 8, 1 fois 6, reste 2. En 24, 4 fois 6, reste 0. Le résultat est 14 craies."
+  },
+  {
+    "id": 17,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 65125,
+    "operande_droit": 34875,
+    "operation": "addition",
+    "reponse_correcte": "100000",
+    "explication": "En effectuant l'addition avec toutes les retenues successives, on trouve exactement 100000."
+  },
+  {
+    "id": 18,
+    "consigne": "Un éleveur à Notse vend un troupeau pour 92000 FCFA. Il achète du matériel pour 35500 FCFA. Combien lui reste-t-il ?",
+    "operande_gauche": 92000,
+    "operande_droit": 35500,
+    "operation": "soustraction",
+    "reponse_correcte": "56500",
+    "explication": "On effectue 92000 - 35500 en gérant les retenues. Le reste est 56500 FCFA."
+  },
+  {
+    "id": 19,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 845,
+    "operande_droit": 15,
+    "operation": "multiplication",
+    "reponse_correcte": "12675",
+    "explication": "845 x 5 = 4225. 845 x 10 = 8450. On additionne : 4225 + 8450 = 12675."
+  },
+  {
+    "id": 20,
+    "consigne": "Sena a 135 poussins qu'il veut placer de façon égale dans 9 cages. Combien de poussins mettra-t-il par cage ?",
+    "operande_gauche": 135,
+    "operande_droit": 9,
+    "operation": "division",
+    "reponse_correcte": "15",
+    "explication": "135 divisé par 9. En 13, il y a 1 fois 9, reste 4. En 45, il y a 5 fois 9, reste 0. Il y aura 15 poussins par cage."
+  }
+]

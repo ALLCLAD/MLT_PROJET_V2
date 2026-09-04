@@ -1,0 +1,513 @@
+[
+  {
+    "id": 1,
+    "theme": "Le grand marché de Kara",
+    "enonce": "Koffi vend du poisson fumé et des légumes. Il a 2 845 poissons et 1 672 kg de légumes. Il vend 1 876 poissons et 943 kg de légumes.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poissons reste-t-il à Koffi ?",
+        "reponse_correcte": "969",
+        "unite": "poissons",
+        "explication": "On soustrait : 2 845 - 1 876 = 969 poissons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de légumes lui reste-t-il ?",
+        "reponse_correcte": "729",
+        "unite": "kg",
+        "explication": "On soustrait : 1 672 - 943 = 729 kg."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien a-t-il vendu d'articles en tout (poissons + kg de légumes) ?",
+        "reponse_correcte": "2819",
+        "unite": "articles",
+        "explication": "On additionne : 1 876 + 943 = 2 819 articles."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien lui reste-t-il d'articles en tout ?",
+        "reponse_correcte": "1698",
+        "unite": "articles",
+        "explication": "On additionne : 969 + 729 = 1 698 articles."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "La couture de pagnes",
+    "enonce": "Ablavi achète 25 mètres de pagne à 1 875 FCFA le mètre et 18 mètres de satin à 2 450 FCFA le mètre. Elle paie avec 6 billets de 10 000 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 25 mètres de pagne ?",
+        "reponse_correcte": "46875",
+        "unite": "FCFA",
+        "explication": "On multiplie : 25 × 1 875 = 46 875 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien coûtent les 18 mètres de satin ?",
+        "reponse_correcte": "44100",
+        "unite": "FCFA",
+        "explication": "On multiplie : 18 × 2 450 = 44 100 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien Ablavi a-t-elle dépensé en tout ?",
+        "reponse_correcte": "90975",
+        "unite": "FCFA",
+        "explication": "On additionne : 46 875 + 44 100 = 90 975 FCFA."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien lui reste-t-il après avoir payé ?",
+        "reponse_correcte": "29025",
+        "unite": "FCFA",
+        "explication": "6 × 10 000 = 60 000 FCFA. 60 000 - 90 975 = -30 975 FCFA. Elle n'a pas assez ! Elle doit encore 30 975 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "Le champ de maïs de Yawo",
+    "enonce": "Yawo a un champ de 12 450 m². Il plante du maïs sur 7 825 m² et des haricots sur 3 456 m². Le reste est en jachère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle surface est plantée en maïs et en haricots ?",
+        "reponse_correcte": "11281",
+        "unite": "m²",
+        "explication": "On additionne : 7 825 + 3 456 = 11 281 m²."
+      },
+      {
+        "sous_id": 2,
+        "question": "Quelle surface est en jachère ?",
+        "reponse_correcte": "1169",
+        "unite": "m²",
+        "explication": "On soustrait : 12 450 - 11 281 = 1 169 m²."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Les vaches de Kossi",
+    "enonce": "Kossi a un troupeau de 1 250 vaches. Chaque vache donne en moyenne 18 litres de lait par jour.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de litres de lait Kossi obtient-il par jour ?",
+        "reponse_correcte": "22500",
+        "unite": "litres",
+        "explication": "On multiplie : 1 250 × 18 = 22 500 litres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de litres de lait obtient-il en une semaine (7 jours) ?",
+        "reponse_correcte": "157500",
+        "unite": "litres",
+        "explication": "On multiplie : 22 500 × 7 = 157 500 litres."
+      },
+      {
+        "sous_id": 3,
+        "question": "Si Kossi vend le lait à 125 FCFA le litre, combien gagne-t-il par semaine ?",
+        "reponse_correcte": "19687500",
+        "unite": "FCFA",
+        "explication": "On multiplie : 157 500 × 125 = 19 687 500 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Les briques pour la construction",
+    "enonce": "Edem construit une maison. Il a besoin de 8 450 briques. Il en a déjà 3 876. Il achète 2 568 briques supplémentaires.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de briques Edem a-t-il après l'achat ?",
+        "reponse_correcte": "6444",
+        "unite": "briques",
+        "explication": "On additionne : 3 876 + 2 568 = 6 444 briques."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de briques lui manque-t-il encore ?",
+        "reponse_correcte": "2006",
+        "unite": "briques",
+        "explication": "On soustrait : 8 450 - 6 444 = 2 006 briques."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Les fruits de Kafui",
+    "enonce": "Kafui vend des fruits au marché. Elle a 1 875 oranges, 2 345 bananes et 1 432 mangues. Elle vend 40% de ses fruits.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de fruits Kafui a-t-elle en tout ?",
+        "reponse_correcte": "5652",
+        "unite": "fruits",
+        "explication": "On additionne : 1 875 + 2 345 + 1 432 = 5 652 fruits."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de fruits vend-elle ?",
+        "reponse_correcte": "2261",
+        "unite": "fruits",
+        "explication": "40% de 5 652 = 5 652 × 40/100 = 2 260.8, arrondi à 2 261 fruits."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de fruits lui reste-t-il ?",
+        "reponse_correcte": "3391",
+        "unite": "fruits",
+        "explication": "On soustrait : 5 652 - 2 261 = 3 391 fruits."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Le voyage en voiture",
+    "enonce": "Ama doit parcourir 765 km pour aller de Lomé à Dapaong. Elle fait le trajet en 3 jours. Le premier jour, elle parcourt 287 km. Le deuxième jour, elle parcourt 312 km.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de km Ama a-t-elle parcourus en deux jours ?",
+        "reponse_correcte": "599",
+        "unite": "km",
+        "explication": "On additionne : 287 + 312 = 599 km."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de km lui reste-t-il à parcourir le troisième jour ?",
+        "reponse_correcte": "166",
+        "unite": "km",
+        "explication": "On soustrait : 765 - 599 = 166 km."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Les bidons d'huile",
+    "enonce": "Koffi achète 56 bidons d'huile. Chaque bidon contient 25 litres. Il revend l'huile à 1 275 FCFA le litre.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de litres d'huile Koffi a-t-il en tout ?",
+        "reponse_correcte": "1400",
+        "unite": "litres",
+        "explication": "On multiplie : 56 × 25 = 1 400 litres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'argent gagnera-t-il s'il vend toute l'huile ?",
+        "reponse_correcte": "1785000",
+        "unite": "FCFA",
+        "explication": "On multiplie : 1 400 × 1 275 = 1 785 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "Les élèves de l'école",
+    "enonce": "L'école primaire de Kpalimé a 468 élèves en CP, 452 en CE1, 487 en CE2, 512 en CM1 et 495 en CM2.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien y a-t-il d'élèves en tout dans l'école ?",
+        "reponse_correcte": "2414",
+        "unite": "élèves",
+        "explication": "On additionne : 468 + 452 + 487 + 512 + 495 = 2 414 élèves."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien y a-t-il d'élèves dans les classes de CE1, CE2 et CM1 ?",
+        "reponse_correcte": "1451",
+        "unite": "élèves",
+        "explication": "On additionne : 452 + 487 + 512 = 1 451 élèves."
+      },
+      {
+        "sous_id": 3,
+        "question": "Quelle est la différence entre le nombre d'élèves en CM2 et en CP ?",
+        "reponse_correcte": "27",
+        "unite": "élèves",
+        "explication": "On soustrait : 495 - 468 = 27 élèves."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "La pêche de Yawo",
+    "enonce": "Yawo pêche 1 876 poissons. Il en donne 25% à sa famille, 35% à ses amis et vend le reste.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poissons Yawo donne-t-il à sa famille ?",
+        "reponse_correcte": "469",
+        "unite": "poissons",
+        "explication": "25% de 1 876 = 1 876 × 25/100 = 469 poissons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poissons donne-t-il à ses amis ?",
+        "reponse_correcte": "657",
+        "unite": "poissons",
+        "explication": "35% de 1 876 = 1 876 × 35/100 = 656.6, arrondi à 657 poissons."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de poissons donne-t-il en tout ?",
+        "reponse_correcte": "1126",
+        "unite": "poissons",
+        "explication": "On additionne : 469 + 657 = 1 126 poissons."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien de poissons vend-il ?",
+        "reponse_correcte": "750",
+        "unite": "poissons",
+        "explication": "On soustrait : 1 876 - 1 126 = 750 poissons."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Les arbres du verger",
+    "enonce": "Kossi a un verger de 15 840 m². Il plante des manguiers sur 5 280 m², des orangers sur 4 752 m² et des citronniers sur 3 168 m². Le reste est planté de goyaviers.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle surface est plantée en manguiers, orangers et citronniers ?",
+        "reponse_correcte": "13200",
+        "unite": "m²",
+        "explication": "On additionne : 5 280 + 4 752 + 3 168 = 13 200 m²."
+      },
+      {
+        "sous_id": 2,
+        "question": "Quelle surface est plantée en goyaviers ?",
+        "reponse_correcte": "2640",
+        "unite": "m²",
+        "explication": "On soustrait : 15 840 - 13 200 = 2 640 m²."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Les cartes de football",
+    "enonce": "Edem collectionne les cartes de football. Il en a 1 287. Il en donne 325 à son cousin, 187 à son ami et en achète 456 de plus.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de cartes Edem donne-t-il en tout ?",
+        "reponse_correcte": "512",
+        "unite": "cartes",
+        "explication": "On additionne : 325 + 187 = 512 cartes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de cartes lui reste-t-il après les dons ?",
+        "reponse_correcte": "775",
+        "unite": "cartes",
+        "explication": "On soustrait : 1 287 - 512 = 775 cartes."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de cartes a-t-il après l'achat ?",
+        "reponse_correcte": "1231",
+        "unite": "cartes",
+        "explication": "On additionne : 775 + 456 = 1 231 cartes."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Le ciment",
+    "enonce": "Ama achète 125 sacs de ciment à 1 875 FCFA le sac. Elle paie avec des billets de 5 000 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 125 sacs de ciment ?",
+        "reponse_correcte": "234375",
+        "unite": "FCFA",
+        "explication": "On multiplie : 125 × 1 875 = 234 375 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de billets de 5 000 FCFA faut-il pour payer ?",
+        "reponse_correcte": "47",
+        "unite": "billets",
+        "explication": "On divise : 234 375 / 5 000 = 46.875, donc 47 billets."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien lui rendra-t-on après avoir payé avec 47 billets ?",
+        "reponse_correcte": "625",
+        "unite": "FCFA",
+        "explication": "47 × 5 000 = 235 000 FCFA. 235 000 - 234 375 = 625 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Les tomates de la serre",
+    "enonce": "Kafui récolte 2 568 tomates dans sa serre. Elle les met dans des cageots de 24 tomates chacun.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de cageots Kafui peut-elle remplir complètement ?",
+        "reponse_correcte": "107",
+        "unite": "cageots",
+        "explication": "On divise : 2 568 / 24 = 107 cageots."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de tomates reste-t-il sans cageot ?",
+        "reponse_correcte": "0",
+        "unite": "tomates",
+        "explication": "2 568 - 107 × 24 = 2 568 - 2 568 = 0 tomates."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Le gari",
+    "enonce": "Yawo produit 1 845 kg de gari. Il en vend 1 234 kg à 275 FCFA le kg. Le reste, il le donne à sa famille.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de gari Yawo vend-il ?",
+        "reponse_correcte": "1234",
+        "unite": "kg",
+        "explication": "Il vend 1 234 kg de gari."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'argent gagne-t-il avec la vente ?",
+        "reponse_correcte": "339350",
+        "unite": "FCFA",
+        "explication": "On multiplie : 1 234 × 275 = 339 350 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de kg de gari donne-t-il à sa famille ?",
+        "reponse_correcte": "611",
+        "unite": "kg",
+        "explication": "On soustrait : 1 845 - 1 234 = 611 kg."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Les pièces d'or",
+    "enonce": "Koffi a trouvé 1 875 pièces d'or. Il les partage équitablement entre ses 5 enfants.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de pièces d'or chaque enfant reçoit-il ?",
+        "reponse_correcte": "375",
+        "unite": "pièces",
+        "explication": "On divise : 1 875 / 5 = 375 pièces."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de pièces reste-t-il à Koffi ?",
+        "reponse_correcte": "0",
+        "unite": "pièces",
+        "explication": "Il a tout partagé. 1 875 - 5 × 375 = 0 pièce."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Le champ de coton",
+    "enonce": "Kossi plante du coton sur 1 875 m². Chaque m² produit 0,85 kg de coton. Il vend le coton à 425 FCFA le kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de coton Kossi produit-il ?",
+        "reponse_correcte": "1594",
+        "unite": "kg",
+        "explication": "On multiplie : 1 875 × 0,85 = 1 593.75, arrondi à 1 594 kg."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'argent gagne-t-il en vendant le coton ?",
+        "reponse_correcte": "677450",
+        "unite": "FCFA",
+        "explication": "1 594 × 425 = 677 450 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Les bidons d'eau",
+    "enonce": "Edem remplit 128 bidons d'eau. Chaque bidon contient 25 litres. Il utilise 1 845 litres pour arroser son jardin.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de litres d'eau Edem a-t-il en tout ?",
+        "reponse_correcte": "3200",
+        "unite": "litres",
+        "explication": "On multiplie : 128 × 25 = 3 200 litres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de litres d'eau lui reste-t-il après avoir arrosé ?",
+        "reponse_correcte": "1355",
+        "unite": "litres",
+        "explication": "On soustrait : 3 200 - 1 845 = 1 355 litres."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Les livres de la bibliothèque",
+    "enonce": "La bibliothèque d'Atakpamé a 12 456 livres. 3 876 sont des romans, 4 532 sont des livres d'histoire et 2 845 sont des livres de science. Les autres sont des dictionnaires.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de romans, de livres d'histoire et de science y a-t-il en tout ?",
+        "reponse_correcte": "11253",
+        "unite": "livres",
+        "explication": "On additionne : 3 876 + 4 532 + 2 845 = 11 253 livres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien y a-t-il de dictionnaires ?",
+        "reponse_correcte": "1203",
+        "unite": "livres",
+        "explication": "On soustrait : 12 456 - 11 253 = 1 203 dictionnaires."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Le transport de marchandises",
+    "enonce": "Un camion transporte 8 765 kg de marchandises. Il fait 12 voyages par jour. Chaque kg rapporte 45 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de marchandises le camion transporte-t-il par jour ?",
+        "reponse_correcte": "105180",
+        "unite": "kg",
+        "explication": "On multiplie : 8 765 × 12 = 105 180 kg."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'argent le camion rapporte-t-il par jour ?",
+        "reponse_correcte": "4733100",
+        "unite": "FCFA",
+        "explication": "On multiplie : 105 180 × 45 = 4 733 100 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien d'argent rapporte-t-il en une semaine (7 jours) ?",
+        "reponse_correcte": "33131700",
+        "unite": "FCFA",
+        "explication": "On multiplie : 4 733 100 × 7 = 33 131 700 FCFA."
+      }
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "theme": "La cour de l'école",
+    "enonce": "Ama a 10 bonbons. Elle donne 3 bonbons à son ami Koffi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de bonbons Ama a-t-elle donné à Koffi ?",
+        "reponse_correcte": "3",
+        "unite": "bonbons",
+        "explication": "Elle a donné 3 bonbons à son ami."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de bonbons reste-t-il à Ama ?",
+        "reponse_correcte": "7",
+        "unite": "bonbons",
+        "explication": "On soustrait : 10 - 3 = 7 bonbons."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "Le champ de maïs",
+    "enonce": "Yawo plante 12 graines de maïs. Il en plante 5 le matin et le reste l'après-midi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de graines Yawo a-t-il plantées le matin ?",
+        "reponse_correcte": "5",
+        "unite": "graines",
+        "explication": "Il a planté 5 graines le matin."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de graines a-t-il plantées l'après-midi ?",
+        "reponse_correcte": "7",
+        "unite": "graines",
+        "explication": "On soustrait : 12 - 5 = 7 graines."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "Les mangues du jardin",
+    "enonce": "Kossi cueille 8 mangues. Il en donne 2 à sa sœur Ablavi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de mangues Kossi donne-t-il à Ablavi ?",
+        "reponse_correcte": "2",
+        "unite": "mangues",
+        "explication": "Il donne 2 mangues à sa sœur."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de mangues reste-t-il à Kossi ?",
+        "reponse_correcte": "6",
+        "unite": "mangues",
+        "explication": "On soustrait : 8 - 2 = 6 mangues."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Les billes",
+    "enonce": "Edem a 15 billes. Il en perd 4 en jouant.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de billes Edem a-t-il perdues ?",
+        "reponse_correcte": "4",
+        "unite": "billes",
+        "explication": "Il a perdu 4 billes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de billes lui reste-t-il ?",
+        "reponse_correcte": "11",
+        "unite": "billes",
+        "explication": "On soustrait : 15 - 4 = 11 billes."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Les œufs de la poule",
+    "enonce": "La poule d'Ama a pondu 6 œufs. Ama en prend 2 pour les manger.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'œufs Ama prend-elle ?",
+        "reponse_correcte": "2",
+        "unite": "œufs",
+        "explication": "Elle prend 2 œufs."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'œufs reste-t-il dans le nid ?",
+        "reponse_correcte": "4",
+        "unite": "œufs",
+        "explication": "On soustrait : 6 - 2 = 4 œufs."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Les poupées",
+    "enonce": "Ablavi a 9 poupées. Elle en donne 3 à son amie Kafui.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poupées Ablavi donne-t-elle ?",
+        "reponse_correcte": "3",
+        "unite": "poupées",
+        "explication": "Elle donne 3 poupées."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poupées reste-t-il à Ablavi ?",
+        "reponse_correcte": "6",
+        "unite": "poupées",
+        "explication": "On soustrait : 9 - 3 = 6 poupées."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Les noix de coco",
+    "enonce": "Koffi a 4 noix de coco. Son père lui en donne 3 de plus.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de noix de coco son père lui donne-t-il ?",
+        "reponse_correcte": "3",
+        "unite": "noix",
+        "explication": "Son père lui donne 3 noix de coco."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de noix de coco a-t-il maintenant ?",
+        "reponse_correcte": "7",
+        "unite": "noix",
+        "explication": "On additionne : 4 + 3 = 7 noix de coco."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Les crayons",
+    "enonce": "Yawo a 7 crayons. Il en achète 2 nouveaux à la boutique.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de crayons Yawo achète-t-il ?",
+        "reponse_correcte": "2",
+        "unite": "crayons",
+        "explication": "Il achète 2 crayons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de crayons a-t-il en tout ?",
+        "reponse_correcte": "9",
+        "unite": "crayons",
+        "explication": "On additionne : 7 + 2 = 9 crayons."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "Les gâteaux",
+    "enonce": "Maman d'Edem prépare 11 gâteaux. La famille en mange 6.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de gâteaux la famille a-t-elle mangés ?",
+        "reponse_correcte": "6",
+        "unite": "gâteaux",
+        "explication": "La famille a mangé 6 gâteaux."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de gâteaux reste-t-il ?",
+        "reponse_correcte": "5",
+        "unite": "gâteaux",
+        "explication": "On soustrait : 11 - 6 = 5 gâteaux."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Les fleurs du jardin",
+    "enonce": "Ama plante 8 fleurs rouges et 5 fleurs jaunes dans son jardin.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de fleurs rouges Ama a-t-elle plantées ?",
+        "reponse_correcte": "8",
+        "unite": "fleurs",
+        "explication": "Elle a planté 8 fleurs rouges."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de fleurs a-t-elle plantées en tout ?",
+        "reponse_correcte": "13",
+        "unite": "fleurs",
+        "explication": "On additionne : 8 + 5 = 13 fleurs."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Les cahiers",
+    "enonce": "Kossi a 9 cahiers. Il en utilise 4 pour écrire.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de cahiers Kossi utilise-t-il ?",
+        "reponse_correcte": "4",
+        "unite": "cahiers",
+        "explication": "Il utilise 4 cahiers."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de cahiers ne sont pas utilisés ?",
+        "reponse_correcte": "5",
+        "unite": "cahiers",
+        "explication": "On soustrait : 9 - 4 = 5 cahiers."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Les oranges",
+    "enonce": "Ablavi a 6 oranges. Elle en mange 2 et donne 1 à son petit frère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'oranges Ablavi a-t-elle données à son frère ?",
+        "reponse_correcte": "1",
+        "unite": "orange",
+        "explication": "Elle donne 1 orange à son frère."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'oranges reste-t-il à Ablavi ?",
+        "reponse_correcte": "3",
+        "unite": "oranges",
+        "explication": "Elle en a mangé 2 et donné 1 : 6 - 2 - 1 = 3 oranges."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Le troupeau de moutons",
+    "enonce": "Koffi garde 10 moutons. 3 moutons s'échappent du troupeau.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de moutons se sont échappés ?",
+        "reponse_correcte": "3",
+        "unite": "moutons",
+        "explication": "3 moutons se sont échappés."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de moutons reste-t-il à garder ?",
+        "reponse_correcte": "7",
+        "unite": "moutons",
+        "explication": "On soustrait : 10 - 3 = 7 moutons."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Les tomates",
+    "enonce": "Yawo récolte 14 tomates. Il en vend 6 au marché.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de tomates Yawo vend-il ?",
+        "reponse_correcte": "6",
+        "unite": "tomates",
+        "explication": "Il vend 6 tomates."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de tomates lui reste-t-il ?",
+        "reponse_correcte": "8",
+        "unite": "tomates",
+        "explication": "On soustrait : 14 - 6 = 8 tomates."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Les balles",
+    "enonce": "Edem a 5 balles rouges et 4 balles bleues.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de balles rouges Edem a-t-il ?",
+        "reponse_correcte": "5",
+        "unite": "balles",
+        "explication": "Il a 5 balles rouges."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de balles a-t-il en tout ?",
+        "reponse_correcte": "9",
+        "unite": "balles",
+        "explication": "On additionne : 5 + 4 = 9 balles."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Les poissons",
+    "enonce": "Le père d'Ama pêche 7 poissons. Il en donne 2 à sa voisine.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poissons le père d'Ama donne-t-il ?",
+        "reponse_correcte": "2",
+        "unite": "poissons",
+        "explication": "Il donne 2 poissons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poissons lui reste-t-il ?",
+        "reponse_correcte": "5",
+        "unite": "poissons",
+        "explication": "On soustrait : 7 - 2 = 5 poissons."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Les images",
+    "enonce": "Kossi collectionne 12 images. Il en donne 5 à son ami Edem.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'images Kossi donne-t-il à Edem ?",
+        "reponse_correcte": "5",
+        "unite": "images",
+        "explication": "Il donne 5 images."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'images reste-t-il à Kossi ?",
+        "reponse_correcte": "7",
+        "unite": "images",
+        "explication": "On soustrait : 12 - 5 = 7 images."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Les bonbons partagés",
+    "enonce": "Ablavi a 16 bonbons. Elle les partage également avec son ami Koffi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "À combien de personnes Ablavi donne-t-elle des bonbons ?",
+        "reponse_correcte": "2",
+        "unite": "personnes",
+        "explication": "Elle les partage avec son ami Koffi, donc 2 personnes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de bonbons chacun reçoit-il ?",
+        "reponse_correcte": "8",
+        "unite": "bonbons",
+        "explication": "On divise : 16 / 2 = 8 bonbons."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Les gombos",
+    "enonce": "Yawo achète 13 gombos. Il en utilise 8 pour préparer la sauce.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de gombos Yawo utilise-t-il ?",
+        "reponse_correcte": "8",
+        "unite": "gombos",
+        "explication": "Il utilise 8 gombos."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de gombos lui reste-t-il ?",
+        "reponse_correcte": "5",
+        "unite": "gombos",
+        "explication": "On soustrait : 13 - 8 = 5 gombos."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Les canards",
+    "enonce": "Il y a 9 canards dans la mare. 4 canards s'envolent.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de canards s'envolent ?",
+        "reponse_correcte": "4",
+        "unite": "canards",
+        "explication": "4 canards s'envolent."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de canards reste-t-il dans la mare ?",
+        "reponse_correcte": "5",
+        "unite": "canards",
+        "explication": "On soustrait : 9 - 4 = 5 canards."
+      }
+    ]
+  }
+]

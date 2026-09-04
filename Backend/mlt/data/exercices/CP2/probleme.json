@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "theme": "Le marché de Lomé",
+    "enonce": "Koffi achète 25 noix de coco. Il en vend 12 à la maman d'Ama.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de noix de coco Koffi a-t-il vendues ?",
+        "reponse_correcte": "12",
+        "unite": "noix",
+        "explication": "Il a vendu 12 noix de coco."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de noix de coco lui reste-t-il ?",
+        "reponse_correcte": "13",
+        "unite": "noix",
+        "explication": "On soustrait : 25 - 12 = 13 noix de coco."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "Les pagnes",
+    "enonce": "Ablavi achète 30 mètres de pagne. Elle en utilise 18 mètres pour coudre une robe.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de mètres de pagne Ablavi utilise-t-elle ?",
+        "reponse_correcte": "18",
+        "unite": "mètres",
+        "explication": "Elle utilise 18 mètres de pagne."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de mètres de pagne lui reste-t-il ?",
+        "reponse_correcte": "12",
+        "unite": "mètres",
+        "explication": "On soustrait : 30 - 18 = 12 mètres."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "Le poulailler",
+    "enonce": "Yawo a 44 poules. Il en achète 15 de plus au marché.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poules Yawo achète-t-il ?",
+        "reponse_correcte": "15",
+        "unite": "poules",
+        "explication": "Il achète 15 poules."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poules a-t-il maintenant ?",
+        "reponse_correcte": "59",
+        "unite": "poules",
+        "explication": "On additionne : 44 + 15 = 59 poules."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Les ignames",
+    "enonce": "Kossi récolte 36 ignames. Il en donne 14 à sa grand-mère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'ignames Kossi donne-t-il à sa grand-mère ?",
+        "reponse_correcte": "14",
+        "unite": "ignames",
+        "explication": "Il donne 14 ignames."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'ignames lui reste-t-il ?",
+        "reponse_correcte": "22",
+        "unite": "ignames",
+        "explication": "On soustrait : 36 - 14 = 22 ignames."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Les boissons",
+    "enonce": "Edem vend 28 bouteilles de jus. Il en vend 13 le matin et le reste l'après-midi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de bouteilles Edem vend-il le matin ?",
+        "reponse_correcte": "13",
+        "unite": "bouteilles",
+        "explication": "Il vend 13 bouteilles le matin."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de bouteilles vend-il l'après-midi ?",
+        "reponse_correcte": "15",
+        "unite": "bouteilles",
+        "explication": "On soustrait : 28 - 13 = 15 bouteilles."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Les cahiers d'école",
+    "enonce": "Kafui a 42 cahiers. Elle en donne 8 à sa sœur et 5 à son frère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de cahiers Kafui donne-t-elle à sa sœur ?",
+        "reponse_correcte": "8",
+        "unite": "cahiers",
+        "explication": "Elle donne 8 cahiers à sa sœur."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de cahiers donne-t-elle en tout ?",
+        "reponse_correcte": "13",
+        "unite": "cahiers",
+        "explication": "On additionne : 8 + 5 = 13 cahiers."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de cahiers lui reste-t-il ?",
+        "reponse_correcte": "29",
+        "unite": "cahiers",
+        "explication": "On soustrait : 42 - 13 = 29 cahiers."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Le champ de patates",
+    "enonce": "Ama plante 47 patates. Elle en arrache 23 pour les vendre.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de patates Ama arrache-t-elle ?",
+        "reponse_correcte": "23",
+        "unite": "patates",
+        "explication": "Elle arrache 23 patates."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de patates reste-t-il dans le champ ?",
+        "reponse_correcte": "24",
+        "unite": "patates",
+        "explication": "On soustrait : 47 - 23 = 24 patates."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Le savon",
+    "enonce": "La maman de Koffi achète 38 savons. Elle en utilise 16 pour la lessive.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de savons la maman utilise-t-elle ?",
+        "reponse_correcte": "16",
+        "unite": "savons",
+        "explication": "Elle utilise 16 savons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de savons lui reste-t-il ?",
+        "reponse_correcte": "22",
+        "unite": "savons",
+        "explication": "On soustrait : 38 - 16 = 22 savons."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "Les œufs de pintade",
+    "enonce": "Yawo trouve 19 œufs de pintade. Il en donne 7 à sa tante.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'œufs Yawo donne-t-il à sa tante ?",
+        "reponse_correcte": "7",
+        "unite": "œufs",
+        "explication": "Il donne 7 œufs."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'œufs lui reste-t-il ?",
+        "reponse_correcte": "12",
+        "unite": "œufs",
+        "explication": "On soustrait : 19 - 7 = 12 œufs."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Les tournesols",
+    "enonce": "Kossi a 33 tournesols dans son jardin. Il en coupe 15 pour sa mère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de tournesols Kossi coupe-t-il ?",
+        "reponse_correcte": "15",
+        "unite": "tournesols",
+        "explication": "Il coupe 15 tournesols."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de tournesols reste-t-il dans le jardin ?",
+        "reponse_correcte": "18",
+        "unite": "tournesols",
+        "explication": "On soustrait : 33 - 15 = 18 tournesols."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Le riz",
+    "enonce": "La maman d'Edem a 48 kg de riz. Elle en vend 22 kg au marché.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de riz la maman vend-elle ?",
+        "reponse_correcte": "22",
+        "unite": "kg",
+        "explication": "Elle vend 22 kg de riz."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de riz lui reste-t-il ?",
+        "reponse_correcte": "26",
+        "unite": "kg",
+        "explication": "On soustrait : 48 - 22 = 26 kg."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Les mangues",
+    "enonce": "Ablavi cueille 27 mangues. Elle en donne 9 à son ami et 6 à sa sœur.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de mangues Ablavi donne-t-elle à son ami ?",
+        "reponse_correcte": "9",
+        "unite": "mangues",
+        "explication": "Elle donne 9 mangues à son ami."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de mangues donne-t-elle en tout ?",
+        "reponse_correcte": "15",
+        "unite": "mangues",
+        "explication": "On additionne : 9 + 6 = 15 mangues."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de mangues lui reste-t-il ?",
+        "reponse_correcte": "12",
+        "unite": "mangues",
+        "explication": "On soustrait : 27 - 15 = 12 mangues."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Les vélos",
+    "enonce": "Koffi voit 32 vélos au garage. 18 vélos sont réparés.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de vélos sont réparés ?",
+        "reponse_correcte": "18",
+        "unite": "vélos",
+        "explication": "18 vélos sont réparés."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de vélos ne sont pas réparés ?",
+        "reponse_correcte": "14",
+        "unite": "vélos",
+        "explication": "On soustrait : 32 - 18 = 14 vélos."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Les noix de cajou",
+    "enonce": "Edem récolte 39 noix de cajou. Il en mange 11 et en donne 8 à sa mère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de noix de cajou Edem mange-t-il ?",
+        "reponse_correcte": "11",
+        "unite": "noix",
+        "explication": "Il mange 11 noix de cajou."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de noix donne-t-il à sa mère ?",
+        "reponse_correcte": "8",
+        "unite": "noix",
+        "explication": "Il donne 8 noix."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de noix lui reste-t-il ?",
+        "reponse_correcte": "20",
+        "unite": "noix",
+        "explication": "On soustrait : 39 - 11 - 8 = 20 noix."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Le poisson fumé",
+    "enonce": "La maman de Yawo achète 45 poissons fumés. Elle en donne 17 à sa voisine.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poissons la maman donne-t-elle à sa voisine ?",
+        "reponse_correcte": "17",
+        "unite": "poissons",
+        "explication": "Elle donne 17 poissons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poissons lui reste-t-il ?",
+        "reponse_correcte": "28",
+        "unite": "poissons",
+        "explication": "On soustrait : 45 - 17 = 28 poissons."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Les pièces de 5 FCFA",
+    "enonce": "Ama a 26 pièces de 5 FCFA. Elle en dépense 14 pour acheter des bonbons.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de pièces Ama dépense-t-elle ?",
+        "reponse_correcte": "14",
+        "unite": "pièces",
+        "explication": "Elle dépense 14 pièces."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de pièces lui reste-t-il ?",
+        "reponse_correcte": "12",
+        "unite": "pièces",
+        "explication": "On soustrait : 26 - 14 = 12 pièces."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Les bananes",
+    "enonce": "Kossi vend 33 régimes de bananes. Il en vend 18 le matin et le reste l'après-midi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de régimes Kossi vend-il le matin ?",
+        "reponse_correcte": "18",
+        "unite": "régimes",
+        "explication": "Il vend 18 régimes le matin."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de régimes vend-il l'après-midi ?",
+        "reponse_correcte": "15",
+        "unite": "régimes",
+        "explication": "On soustrait : 33 - 18 = 15 régimes."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Les œufs de cane",
+    "enonce": "Ablavi ramasse 41 œufs de cane. Elle en donne 23 à sa grand-mère.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'œufs Ablavi donne-t-elle à sa grand-mère ?",
+        "reponse_correcte": "23",
+        "unite": "œufs",
+        "explication": "Elle donne 23 œufs."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'œufs lui reste-t-il ?",
+        "reponse_correcte": "18",
+        "unite": "œufs",
+        "explication": "On soustrait : 41 - 23 = 18 œufs."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Les lampe-torches",
+    "enonce": "Yawo a 34 lampe-torches. Il en prête 12 à son cousin et 9 à son ami.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de lampe-torches Yawo prête-t-il à son cousin ?",
+        "reponse_correcte": "12",
+        "unite": "lampe-torches",
+        "explication": "Il prête 12 lampe-torches."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de lampe-torches prête-t-il en tout ?",
+        "reponse_correcte": "21",
+        "unite": "lampe-torches",
+        "explication": "On additionne : 12 + 9 = 21 lampe-torches."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien de lampe-torches lui reste-t-il ?",
+        "reponse_correcte": "13",
+        "unite": "lampe-torches",
+        "explication": "On soustrait : 34 - 21 = 13 lampe-torches."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Le maïs",
+    "enonce": "Koffi a 49 épis de maïs. Il en donne 16 à sa tante et 12 à son oncle.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'épis de maïs Koffi donne-t-il à sa tante ?",
+        "reponse_correcte": "16",
+        "unite": "épis",
+        "explication": "Il donne 16 épis à sa tante."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'épis donne-t-il à son oncle ?",
+        "reponse_correcte": "12",
+        "unite": "épis",
+        "explication": "Il donne 12 épis à son oncle."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien d'épis donne-t-il en tout ?",
+        "reponse_correcte": "28",
+        "unite": "épis",
+        "explication": "On additionne : 16 + 12 = 28 épis."
+      },
+      {
+        "sous_id": 4,
+        "question": "Combien d'épis lui reste-t-il ?",
+        "reponse_correcte": "21",
+        "unite": "épis",
+        "explication": "On soustrait : 49 - 28 = 21 épis."
+      }
+    ]
+  }
+]

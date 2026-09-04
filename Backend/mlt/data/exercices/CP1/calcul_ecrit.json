@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "consigne": "Koffi a 5 billes. Son ami Yawo lui donne 3 billes. Combien de billes Koffi a-t-il en tout ?",
+    "operande_gauche": 5,
+    "operande_droit": 3,
+    "operation": "addition",
+    "reponse_correcte": "8",
+    "explication": "On ajoute 3 à 5. 5 + 3 = 8. Koffi a 8 billes."
+  },
+  {
+    "id": 2,
+    "consigne": "Ama prépare 6 beignets. Elle en mange 2. Combien de beignets reste-t-il ?",
+    "operande_gauche": 6,
+    "operande_droit": 2,
+    "operation": "soustraction",
+    "reponse_correcte": "4",
+    "explication": "On enlève 2 de 6. 6 - 2 = 4. Il reste 4 beignets."
+  },
+  {
+    "id": 3,
+    "consigne": "Ablavi achète 10 bananes au marché d'Adawlato. Elle en donne 4 à sa sœur. Combien de bananes lui reste-t-il ?",
+    "operande_gauche": 10,
+    "operande_droit": 4,
+    "operation": "soustraction",
+    "reponse_correcte": "6",
+    "explication": "On enlève 4 de 10. 10 - 4 = 6. Il lui reste 6 bananes."
+  },
+  {
+    "id": 4,
+    "consigne": "Kossi trouve 7 mangues sous le grand manguier. Fovi en trouve 5. Combien de mangues ont-ils ensemble ?",
+    "operande_gauche": 7,
+    "operande_droit": 5,
+    "operation": "addition",
+    "reponse_correcte": "12",
+    "explication": "On ajoute 7 et 5. 7 + 5 = 12. Ils ont 12 mangues ensemble."
+  },
+  {
+    "id": 5,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 12,
+    "operande_droit": 6,
+    "operation": "addition",
+    "reponse_correcte": "18",
+    "explication": "On aligne les unités : 2 + 6 = 8. La dizaine reste 1. Le résultat est 18."
+  },
+  {
+    "id": 6,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 15,
+    "operande_droit": 3,
+    "operation": "soustraction",
+    "reponse_correcte": "12",
+    "explication": "On soustrait les unités : 5 - 3 = 2. La dizaine reste 1. Le résultat est 12."
+  },
+  {
+    "id": 7,
+    "consigne": "Kodjo a 14 FCFA. Il dépense 4 FCFA pour acheter un bonbon. Combien de FCFA lui reste-t-il ?",
+    "operande_gauche": 14,
+    "operande_droit": 4,
+    "operation": "soustraction",
+    "reponse_correcte": "10",
+    "explication": "On soustrait 4 de 14. 14 - 4 = 10. Il lui reste 10 FCFA."
+  },
+  {
+    "id": 8,
+    "consigne": "Yawa a 8 épis de maïs. Sa maman lui en donne 8 autres. Combien d'épis de maïs a-t-elle maintenant ?",
+    "operande_gauche": 8,
+    "operande_droit": 8,
+    "operation": "addition",
+    "reponse_correcte": "16",
+    "explication": "On fait la somme de 8 et 8. 8 + 8 = 16. Elle a 16 épis de maïs."
+  },
+  {
+    "id": 9,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 11,
+    "operande_droit": 7,
+    "operation": "addition",
+    "reponse_correcte": "18",
+    "explication": "Pour les unités : 1 + 7 = 8. On garde la dizaine 1. Le résultat est 18."
+  },
+  {
+    "id": 10,
+    "consigne": "Sena avait 19 poussins. 5 poussins sont partis chez le voisin. Combien de poussins reste-t-il à Sena ?",
+    "operande_gauche": 19,
+    "operande_droit": 5,
+    "operation": "soustraction",
+    "reponse_correcte": "14",
+    "explication": "On soustrait les unités : 9 - 5 = 4. La dizaine reste 1. Il reste 14 poussins."
+  },
+  {
+    "id": 11,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 13,
+    "operande_droit": 5,
+    "operation": "addition",
+    "reponse_correcte": "18",
+    "explication": "On ajoute les unités : 3 + 5 = 8. On écrit la dizaine : 1. Le total est 18."
+  },
+  {
+    "id": 12,
+    "consigne": "Komlan cueille 9 papayes le matin et 4 papayes le soir. Combien de papayes a-t-il cueillies ?",
+    "operande_gauche": 9,
+    "operande_droit": 4,
+    "operation": "addition",
+    "reponse_correcte": "13",
+    "explication": "On calcule 9 + 4, ce qui fait 13. Komlan a cueilli 13 papayes."
+  },
+  {
+    "id": 13,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 17,
+    "operande_droit": 6,
+    "operation": "soustraction",
+    "reponse_correcte": "11",
+    "explication": "On soustrait les unités : 7 - 6 = 1. On garde la dizaine : 1. Le résultat est 11."
+  },
+  {
+    "id": 14,
+    "consigne": "Akouavi a 11 avocats. Elle en vend 2 au marché. Combien d'avocats lui reste-t-il ?",
+    "operande_gauche": 11,
+    "operande_droit": 2,
+    "operation": "soustraction",
+    "reponse_correcte": "9",
+    "explication": "On recule de 2 à partir de 11 : 10, puis 9. Il lui reste 9 avocats."
+  },
+  {
+    "id": 15,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 10,
+    "operande_droit": 10,
+    "operation": "addition",
+    "reponse_correcte": "20",
+    "explication": "On ajoute les unités : 0 + 0 = 0. On ajoute les dizaines : 1 + 1 = 2. Le résultat est 20."
+  },
+  {
+    "id": 16,
+    "consigne": "Ekoué a 16 noix de palme. Il en donne 6 à son frère. Combien de noix lui reste-t-il ?",
+    "operande_gauche": 16,
+    "operande_droit": 6,
+    "operation": "soustraction",
+    "reponse_correcte": "10",
+    "explication": "On soustrait les unités : 6 - 6 = 0. La dizaine reste 1. Il reste 10 noix."
+  },
+  {
+    "id": 17,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 14,
+    "operande_droit": 3,
+    "operation": "addition",
+    "reponse_correcte": "17",
+    "explication": "On additionne les unités : 4 + 3 = 7. La dizaine reste 1. Le résultat est 17."
+  },
+  {
+    "id": 18,
+    "consigne": "Adjo a 18 pagnes. Elle en prête 5 à sa cousine. Combien de pagnes lui reste-t-il ?",
+    "operande_gauche": 18,
+    "operande_droit": 5,
+    "operation": "soustraction",
+    "reponse_correcte": "13",
+    "explication": "On soustrait les unités : 8 - 5 = 3. La dizaine reste 1. Il lui reste 13 pagnes."
+  },
+  {
+    "id": 19,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 15,
+    "operande_droit": 4,
+    "operation": "addition",
+    "reponse_correcte": "19",
+    "explication": "On additionne les unités : 5 + 4 = 9. La dizaine reste 1. Le résultat est 19."
+  },
+  {
+    "id": 20,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 20,
+    "operande_droit": 5,
+    "operation": "soustraction",
+    "reponse_correcte": "15",
+    "explication": "En enlevant 5 de 20, on obtient 15. Le résultat est 15."
+  }
+]

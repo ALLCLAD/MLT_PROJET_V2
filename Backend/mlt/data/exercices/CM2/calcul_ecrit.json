@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "consigne": "Koffi a économisé 145000 FCFA. Il dépense 87500 FCFA pour s'acheter un vélo. Combien lui reste-t-il ?",
+    "operande_gauche": 145000,
+    "operande_droit": 87500,
+    "operation": "soustraction",
+    "reponse_correcte": "57500",
+    "explication": "On pose la soustraction avec retenues : 145000 - 87500 = 57500. Il lui reste 57500 FCFA."
+  },
+  {
+    "id": 2,
+    "consigne": "Pose et effectue cette multiplication complexe :",
+    "operande_gauche": 2456,
+    "operande_droit": 134,
+    "operation": "multiplication",
+    "reponse_correcte": "329104",
+    "explication": "On multiplie 2456 successivement par 4, puis par 30, puis par 100, et on fait la somme : 9824 + 73680 + 245600 = 329104."
+  },
+  {
+    "id": 3,
+    "consigne": "Effectue cette division et trouve le quotient exact :",
+    "operande_gauche": 875,
+    "operande_droit": 25,
+    "operation": "division",
+    "reponse_correcte": "35",
+    "explication": "En 87 combien de fois 25 ? 3 fois (75), reste 12. On abaisse 5. En 125 combien de fois 25 ? 5 fois (125), reste 0. Le quotient est 35."
+  },
+  {
+    "id": 4,
+    "consigne": "Une entreprise togolaise produit 345000 bouteilles de jus le premier mois et 428900 le deuxième mois. Quelle est la production totale ?",
+    "operande_gauche": 345000,
+    "operande_droit": 428900,
+    "operation": "addition",
+    "reponse_correcte": "773900",
+    "explication": "On effectue l'addition colonne par colonne : 345000 + 428900 = 773900 bouteilles."
+  },
+  {
+    "id": 5,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 587,
+    "operande_droit": 46,
+    "operation": "multiplication",
+    "reponse_correcte": "27002",
+    "explication": "587 x 6 = 3522. 587 x 40 = 23480. La somme des deux donne 3522 + 23480 = 27002."
+  },
+  {
+    "id": 6,
+    "consigne": "Un commerçant d'Assahoun partage équitablement 1872 noix de coco dans 12 grands paniers. Combien de noix met-il par panier ?",
+    "operande_gauche": 1872,
+    "operande_droit": 12,
+    "operation": "division",
+    "reponse_correcte": "156",
+    "explication": "En 18, 1 fois 12, reste 6. En 67, 5 fois 12 (60), reste 7. En 72, 6 fois 12 (72), reste 0. Quotient : 156."
+  },
+  {
+    "id": 7,
+    "consigne": "Un camion de transport livre des marchandises d'une valeur de 950000 FCFA. Le client verse une avance de 685000 FCFA. Combien reste-t-il à payer ?",
+    "operande_gauche": 950000,
+    "operande_droit": 685000,
+    "operation": "soustraction",
+    "reponse_correcte": "265000",
+    "explication": "On pose la soustraction : 950000 - 685000 = 265000. Il reste 265000 FCFA à payer."
+  },
+  {
+    "id": 8,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 589400,
+    "operande_droit": 310600,
+    "operation": "addition",
+    "reponse_correcte": "900000",
+    "explication": "On additionne les valeurs correspondantes en faisant attention aux retenues. Le total est égal à 900000."
+  },
+  {
+    "id": 9,
+    "consigne": "Un grossiste au grand marché de Lomé achète 150 sacs de maïs à 4500 FCFA le sac. Combien dépense-t-il en tout ?",
+    "operande_gauche": 4500,
+    "operande_droit": 150,
+    "operation": "multiplication",
+    "reponse_correcte": "675000",
+    "explication": "On calcule 4500 x 150. 45 x 15 = 675. On rajoute les trois zéros à la fin, ce qui donne 675000 FCFA."
+  },
+  {
+    "id": 10,
+    "consigne": "Effectue cette division :",
+    "operande_gauche": 3456,
+    "operande_droit": 16,
+    "operation": "division",
+    "reponse_correcte": "216",
+    "explication": "En 34, 2 fois 16 (32), reste 2. En 25, 1 fois 16, reste 9. En 96, 6 fois 16 (96), reste 0. Le quotient est 216."
+  },
+  {
+    "id": 11,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 420500,
+    "operande_droit": 135900,
+    "operation": "soustraction",
+    "reponse_correcte": "284600",
+    "explication": "En soustrayant avec soin chaque colonne et en appliquant les retenues, on obtient 284600."
+  },
+  {
+    "id": 12,
+    "consigne": "Un groupement de femmes à Atakpamé récolte 18000 têtes d'ananas. Elles les répartissent également dans 45 caisses. Combien d'ananas contient chaque caisse ?",
+    "operande_gauche": 18000,
+    "operande_droit": 45,
+    "operation": "division",
+    "reponse_correcte": "400",
+    "explication": "En 180 combien de fois 45 ? 4 fois exactement. On ajoute les deux zéros restants. Le quotient est 400."
+  },
+  {
+    "id": 13,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 1275,
+    "operande_droit": 54,
+    "operation": "multiplication",
+    "reponse_correcte": "68850",
+    "explication": "1275 x 4 = 5100. 1275 x 50 = 63750. En faisant la somme : 5100 + 63750 = 68850."
+  },
+  {
+    "id": 14,
+    "consigne": "Une école achète du mobilier pour un coût de 634000 FCFA et des livres pour 266000 FCFA. Quel est le montant global de la facture ?",
+    "operande_gauche": 634000,
+    "operande_droit": 266000,
+    "operation": "addition",
+    "reponse_correcte": "900000",
+    "explication": "On calcule 634000 + 266000. La somme donne 900000 FCFA."
+  },
+  {
+    "id": 15,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 800000,
+    "operande_droit": 456700,
+    "operation": "soustraction",
+    "reponse_correcte": "343300",
+    "explication": "Soustraction avec retenues en cascade. 800000 - 456700 = 343300."
+  },
+  {
+    "id": 16,
+    "consigne": "Une imprimerie à Lomé doit empaqueter 7500 cahiers par paquets de 25. Combien de paquets obtiendra-t-elle ?",
+    "operande_gauche": 7500,
+    "operande_droit": 25,
+    "operation": "division",
+    "reponse_correcte": "300",
+    "explication": "En 75, il y a 3 fois 25 (reste 0). On ajoute les deux zéros restants au quotient, ce qui fait 300 paquets."
+  },
+  {
+    "id": 17,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 4312,
+    "operande_droit": 23,
+    "operation": "multiplication",
+    "reponse_correcte": "99176",
+    "explication": "4312 x 3 = 12936. 4312 x 20 = 86240. Somme : 12936 + 86240 = 99176."
+  },
+  {
+    "id": 18,
+    "consigne": "Le budget annuel d'un dispensaire est de 745000 FCFA. Au milieu de l'année, ils ont dépensé 382000 FCFA. Quel budget reste-t-il ?",
+    "operande_gauche": 745000,
+    "operande_droit": 382000,
+    "operation": "soustraction",
+    "reponse_correcte": "363000",
+    "explication": "On pose 745000 - 382000, ce qui donne 363000 FCFA restants."
+  },
+  {
+    "id": 19,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 125800,
+    "operande_droit": 874200,
+    "operation": "addition",
+    "reponse_correcte": "1000000",
+    "explication": "En effectuant la somme colonne par colonne avec les retenues, on trouve un total de 1000000."
+  },
+  {
+    "id": 20,
+    "consigne": "Un terrain rectangulaire est divisé en 14 parcelles égales. La superficie totale est de 7280 mètres carrés. Quelle est la superficie d'une parcelle ?",
+    "operande_gauche": 7280,
+    "operande_droit": 14,
+    "operation": "division",
+    "reponse_correcte": "520",
+    "explication": "En 72, 5 fois 14 (70), reste 2. On abaisse le 8. En 28, 2 fois 14 (28), reste 0. On ajoute le 0 final. Le quotient est 520."
+  }
+]

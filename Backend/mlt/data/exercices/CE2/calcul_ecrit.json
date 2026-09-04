@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "consigne": "Koffi achète un sac de riz à 450 FCFA et du poisson à 320 FCFA. Combien dépense-t-il en tout ?",
+    "operande_gauche": 450,
+    "operande_droit": 320,
+    "operation": "addition",
+    "reponse_correcte": "770",
+    "explication": "Unités : 0 + 0 = 0. Dizaines : 5 + 2 = 7. Centaines : 4 + 3 = 7. Total : 770 FCFA."
+  },
+  {
+    "id": 2,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 895,
+    "operande_droit": 452,
+    "operation": "soustraction",
+    "reponse_correcte": "443",
+    "explication": "Unités : 5 - 2 = 3. Dizaines : 9 - 5 = 4. Centaines : 8 - 4 = 4. Résultat : 443."
+  },
+  {
+    "id": 3,
+    "consigne": "Ama a 4 paquets de biscuits. Chaque paquet contient 12 biscuits. Combien de biscuits a-t-elle ?",
+    "operande_gauche": 12,
+    "operande_droit": 4,
+    "operation": "multiplication",
+    "reponse_correcte": "48",
+    "explication": "On multiplie 12 par 4. 4 x 2 = 8 pour les unités, 4 x 1 = 4 pour les dizaines. Total : 48."
+  },
+  {
+    "id": 4,
+    "consigne": "Dans une école à Kara, il y a 520 élèves le matin. 150 nouveaux élèves s'inscrivent. Combien d'élèves y a-t-il ?",
+    "operande_gauche": 520,
+    "operande_droit": 150,
+    "operation": "addition",
+    "reponse_correcte": "670",
+    "explication": "Unités : 0+0=0. Dizaines : 2+5=7. Centaines : 5+1=6. Le total est de 670 élèves."
+  },
+  {
+    "id": 5,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 231,
+    "operande_droit": 3,
+    "operation": "multiplication",
+    "reponse_correcte": "693",
+    "explication": "3 x 1 = 3 (unités), 3 x 3 = 9 (dizaines), 3 x 2 = 6 (centaines). Résultat : 693."
+  },
+  {
+    "id": 6,
+    "consigne": "Yawo gagne 980 FCFA. Il achète un cahier de dessin à 350 FCFA. Combien lui reste-t-il ?",
+    "operande_gauche": 980,
+    "operande_droit": 350,
+    "operation": "soustraction",
+    "reponse_correcte": "630",
+    "explication": "Unités : 0 - 0 = 0. Dizaines : 8 - 5 = 3. Centaines : 9 - 3 = 6. Il lui reste 630 FCFA."
+  },
+  {
+    "id": 7,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 604,
+    "operande_droit": 283,
+    "operation": "addition",
+    "reponse_correcte": "887",
+    "explication": "Unités : 4 + 3 = 7. Dizaines : 0 + 8 = 8. Centaines : 6 + 2 = 8. Résultat : 887."
+  },
+  {
+    "id": 8,
+    "consigne": "Ablavi vend 5 pagnes à 110 FCFA l'unité. Combien gagne-t-elle au total ?",
+    "operande_gauche": 110,
+    "operande_droit": 5,
+    "operation": "multiplication",
+    "reponse_correcte": "550",
+    "explication": "On multiplie 110 par 5. 5 x 0 = 0, 5 x 1 = 5, 5 x 1 = 5. Elle gagne 550 FCFA."
+  },
+  {
+    "id": 9,
+    "consigne": "Un éleveur de Sokodé a 750 boeufs. Il en vend 240. Combien de boeufs lui reste-t-il ?",
+    "operande_gauche": 750,
+    "operande_droit": 240,
+    "operation": "soustraction",
+    "reponse_correcte": "510",
+    "explication": "Unités : 0 - 0 = 0. Dizaines : 5 - 4 = 1. Centaines : 7 - 2 = 5. Il reste 510 boeufs."
+  },
+  {
+    "id": 10,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 415,
+    "operande_droit": 362,
+    "operation": "addition",
+    "reponse_correcte": "777",
+    "explication": "Unités : 5 + 2 = 7. Dizaines : 1 + 6 = 7. Centaines : 4 + 3 = 7. Résultat : 777."
+  },
+  {
+    "id": 11,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 142,
+    "operande_droit": 2,
+    "operation": "multiplication",
+    "reponse_correcte": "284",
+    "explication": "2 x 2 = 4 (unités). 2 x 4 = 8 (dizaines). 2 x 1 = 2 (centaines). Résultat : 284."
+  },
+  {
+    "id": 12,
+    "consigne": "Kossi a récolté 860 grosses ignames. Il en livre 530 au marché. Combien d'ignames garde-t-il ?",
+    "operande_gauche": 860,
+    "operande_droit": 530,
+    "operation": "soustraction",
+    "reponse_correcte": "330",
+    "explication": "Unités : 0 - 0 = 0. Dizaines : 6 - 3 = 3. Centaines : 8 - 5 = 3. Il garde 330 ignames."
+  },
+  {
+    "id": 13,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 720,
+    "operande_droit": 165,
+    "operation": "addition",
+    "reponse_correcte": "885",
+    "explication": "Unités : 0 + 5 = 5. Dizaines : 2 + 6 = 8. Centaines : 7 + 1 = 8. Résultat : 885."
+  },
+  {
+    "id": 14,
+    "consigne": "Sena possède 3 plantations. Chaque plantation produit 300 bananes. Quelle est la production totale ?",
+    "operande_gauche": 300,
+    "operande_droit": 3,
+    "operation": "multiplication",
+    "reponse_correcte": "900",
+    "explication": "On calcule 300 x 3. 3 x 0 = 0, 3 x 0 = 0, 3 x 3 = 9. La production totale est de 900 bananes."
+  },
+  {
+    "id": 15,
+    "consigne": "Pose et effectue cette soustraction :",
+    "operande_gauche": 999,
+    "operande_droit": 333,
+    "operation": "soustraction",
+    "reponse_correcte": "666",
+    "explication": "Chaque rang (unités, dizaines, centaines) donne 9 - 3 = 6. Le résultat est 666."
+  },
+  {
+    "id": 16,
+    "consigne": "Yawa a 430 FCFA dans sa tirelire. Son père lui donne 250 FCFA. Combien a-t-elle en tout ?",
+    "operande_gauche": 430,
+    "operande_droit": 250,
+    "operation": "addition",
+    "reponse_correcte": "680",
+    "explication": "Unités : 0 + 0 = 0. Dizaines : 3 + 5 = 8. Centaines : 4 + 2 = 6. Elle a 680 FCFA."
+  },
+  {
+    "id": 17,
+    "consigne": "Pose et effectue cette multiplication :",
+    "operande_gauche": 444,
+    "operande_droit": 2,
+    "operation": "multiplication",
+    "reponse_correcte": "888",
+    "explication": "On multiplie chaque chiffre par 2. 2 x 4 = 8. Le résultat est 888."
+  },
+  {
+    "id": 18,
+    "consigne": "Un commerçant de Dapaong a 670 savons. Il en vend 420. Combien de savons lui reste-t-il ?",
+    "operande_gauche": 670,
+    "operande_droit": 420,
+    "operation": "soustraction",
+    "reponse_correcte": "250",
+    "explication": "Unités : 0 - 0 = 0. Dizaines : 7 - 2 = 5. Centaines : 6 - 4 = 2. Il reste 250 savons."
+  },
+  {
+    "id": 19,
+    "consigne": "Pose et effectue cette addition :",
+    "operande_gauche": 512,
+    "operande_droit": 465,
+    "operation": "addition",
+    "reponse_correcte": "977",
+    "explication": "Unités : 2 + 5 = 7. Dizaines : 1 + 6 = 7. Centaines : 5 + 4 = 9. Résultat : 977."
+  },
+  {
+    "id": 20,
+    "consigne": "Fovi achète 4 cahiers à 210 FCFA l'un. Combien dépense-t-il ?",
+    "operande_gauche": 210,
+    "operande_droit": 4,
+    "operation": "multiplication",
+    "reponse_correcte": "840",
+    "explication": "On calcule 210 x 4. 4 x 0 = 0, 4 x 1 = 4, 4 x 2 = 8. Il dépense 840 FCFA."
+  }
+]

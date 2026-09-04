@@ -1,0 +1,457 @@
+[
+  {
+    "id": 1,
+    "theme": "Le marché d'Atakpamé",
+    "enonce": "Koffi vend du poisson fumé. Il a 246 poissons. Il vend 98 poissons le matin et 76 l'après-midi.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poissons Koffi vend-il en tout pendant la journée ?",
+        "reponse_correcte": "174",
+        "unite": "poissons",
+        "explication": "On additionne : 98 + 76 = 174 poissons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poissons lui reste-t-il après la journée ?",
+        "reponse_correcte": "72",
+        "unite": "poissons",
+        "explication": "On soustrait : 246 - 174 = 72 poissons."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "theme": "Les pagnes de la fête",
+    "enonce": "Ablavi achète 12 mètres de pagne à 1 875 FCFA le mètre et 8 mètres de dentelle à 2 450 FCFA le mètre.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 12 mètres de pagne ?",
+        "reponse_correcte": "22500",
+        "unite": "FCFA",
+        "explication": "On multiplie : 12 × 1 875 = 22 500 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien coûtent les 8 mètres de dentelle ?",
+        "reponse_correcte": "19600",
+        "unite": "FCFA",
+        "explication": "On multiplie : 8 × 2 450 = 19 600 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien Ablavi a-t-elle dépensé en tout ?",
+        "reponse_correcte": "42100",
+        "unite": "FCFA",
+        "explication": "On additionne : 22 500 + 19 600 = 42 100 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "theme": "La récolte de maïs",
+    "enonce": "Yawo récolte 1 548 épis de maïs. Il en vend 632 au marché et donne 315 à sa famille.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien d'épis de maïs Yawo vend-il ?",
+        "reponse_correcte": "632",
+        "unite": "épis",
+        "explication": "Il vend 632 épis de maïs."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'épis donne-t-il à sa famille ?",
+        "reponse_correcte": "315",
+        "unite": "épis",
+        "explication": "Il donne 315 épis à sa famille."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien d'épis lui reste-t-il ?",
+        "reponse_correcte": "601",
+        "unite": "épis",
+        "explication": "On soustrait : 1 548 - 632 - 315 = 601 épis."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "theme": "Les chaises de l'école",
+    "enonce": "L'école de Kossi a 148 chaises. Elle en achète 96 nouvelles. Ensuite, elle donne 56 chaises à une autre école.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de chaises l'école a-t-elle après l'achat ?",
+        "reponse_correcte": "244",
+        "unite": "chaises",
+        "explication": "On additionne : 148 + 96 = 244 chaises."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de chaises reste-t-il après le don ?",
+        "reponse_correcte": "188",
+        "unite": "chaises",
+        "explication": "On soustrait : 244 - 56 = 188 chaises."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "theme": "Les bouteilles de jus",
+    "enonce": "Edem achète 25 packs de jus. Chaque pack contient 12 bouteilles. Il revend chaque bouteille à 150 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de bouteilles de jus Edem a-t-il en tout ?",
+        "reponse_correcte": "300",
+        "unite": "bouteilles",
+        "explication": "On multiplie : 25 × 12 = 300 bouteilles."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien gagnera-t-il s'il vend toutes les bouteilles ?",
+        "reponse_correcte": "45000",
+        "unite": "FCFA",
+        "explication": "On multiplie : 300 × 150 = 45 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "theme": "Les cahiers de la classe",
+    "enonce": "Kafui distribue 324 cahiers aux élèves de CE2. Il y a 27 élèves dans la classe.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de cahiers chaque élève reçoit-il ?",
+        "reponse_correcte": "12",
+        "unite": "cahiers",
+        "explication": "On divise : 324 / 27 = 12 cahiers par élève."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "theme": "Les voitures du garage",
+    "enonce": "Ama voit 1 250 voitures dans un garage. 468 sont des voitures rouges et 527 sont des voitures bleues. Les autres sont blanches.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de voitures rouges et bleues y a-t-il en tout ?",
+        "reponse_correcte": "995",
+        "unite": "voitures",
+        "explication": "On additionne : 468 + 527 = 995 voitures."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien y a-t-il de voitures blanches ?",
+        "reponse_correcte": "255",
+        "unite": "voitures",
+        "explication": "On soustrait : 1 250 - 995 = 255 voitures."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "theme": "Les savons de la maman",
+    "enonce": "La maman de Koffi achète 356 savons. Elle en donne 127 à la voisine et 89 à la tante.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de savons la maman donne-t-elle en tout ?",
+        "reponse_correcte": "216",
+        "unite": "savons",
+        "explication": "On additionne : 127 + 89 = 216 savons."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de savons lui reste-t-il ?",
+        "reponse_correcte": "140",
+        "unite": "savons",
+        "explication": "On soustrait : 356 - 216 = 140 savons."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "theme": "Les arbres du champ",
+    "enonce": "Yawo plante 1 286 arbres dans son champ. Il plante des manguiers, des orangers et des citronniers. Il y a 458 manguiers et 376 orangers.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien y a-t-il de manguiers et d'orangers en tout ?",
+        "reponse_correcte": "834",
+        "unite": "arbres",
+        "explication": "On additionne : 458 + 376 = 834 arbres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien y a-t-il de citronniers ?",
+        "reponse_correcte": "452",
+        "unite": "arbres",
+        "explication": "On soustrait : 1 286 - 834 = 452 citronniers."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "theme": "Les pièces de 10 FCFA",
+    "enonce": "Kossi économise 385 pièces de 10 FCFA. Il veut les échanger contre des billets de 1 000 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Quelle somme d'argent Kossi a-t-il en pièces ?",
+        "reponse_correcte": "3850",
+        "unite": "FCFA",
+        "explication": "On multiplie : 385 × 10 = 3 850 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de billets de 1 000 FCFA aura-t-il ?",
+        "reponse_correcte": "3",
+        "unite": "billets",
+        "explication": "On divise : 3 850 / 1 000 = 3 billets (il reste 850 FCFA)."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien lui restera-t-il en pièces après l'échange ?",
+        "reponse_correcte": "850",
+        "unite": "FCFA",
+        "explication": "3 850 - 3 000 = 850 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "theme": "Les gombos du marché",
+    "enonce": "Ablavi achète 14 kg de gombos à 275 FCFA le kg et 8 kg d'okra à 325 FCFA le kg.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 14 kg de gombos ?",
+        "reponse_correcte": "3850",
+        "unite": "FCFA",
+        "explication": "On multiplie : 14 × 275 = 3 850 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien coûtent les 8 kg d'okra ?",
+        "reponse_correcte": "2600",
+        "unite": "FCFA",
+        "explication": "On multiplie : 8 × 325 = 2 600 FCFA."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien a-t-elle dépensé en tout ?",
+        "reponse_correcte": "6450",
+        "unite": "FCFA",
+        "explication": "On additionne : 3 850 + 2 600 = 6 450 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "theme": "Les livres de la bibliothèque",
+    "enonce": "La bibliothèque de l'école a 2 345 livres. 876 sont des livres d'histoire, 654 sont des livres de science et les autres sont des romans.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de livres d'histoire et de science y a-t-il en tout ?",
+        "reponse_correcte": "1530",
+        "unite": "livres",
+        "explication": "On additionne : 876 + 654 = 1 530 livres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien y a-t-il de romans ?",
+        "reponse_correcte": "815",
+        "unite": "livres",
+        "explication": "On soustrait : 2 345 - 1 530 = 815 romans."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "theme": "Les œufs de la ferme",
+    "enonce": "La ferme d'Edem produit 1 568 œufs par jour. Les œufs sont mis dans des boîtes de 18 œufs.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de boîtes complètes peut-on remplir par jour ?",
+        "reponse_correcte": "87",
+        "unite": "boîtes",
+        "explication": "On divise : 1 568 / 18 = 87 boîtes complètes."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien d'œufs reste-t-il après le remplissage des boîtes ?",
+        "reponse_correcte": "2",
+        "unite": "œufs",
+        "explication": "1 568 - 87 × 18 = 1 568 - 1 566 = 2 œufs."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "theme": "Les pièces de 25 FCFA",
+    "enonce": "Koffi a 3 275 FCFA en pièces de 25 FCFA. Il veut les échanger contre des billets de 500 FCFA.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de pièces de 25 FCFA Koffi a-t-il ?",
+        "reponse_correcte": "131",
+        "unite": "pièces",
+        "explication": "On divise : 3 275 / 25 = 131 pièces."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de billets de 500 FCFA aura-t-il ?",
+        "reponse_correcte": "6",
+        "unite": "billets",
+        "explication": "On divise : 3 275 / 500 = 6 billets (il reste 275 FCFA)."
+      },
+      {
+        "sous_id": 3,
+        "question": "Combien lui restera-t-il après l'échange ?",
+        "reponse_correcte": "275",
+        "unite": "FCFA",
+        "explication": "3 275 - 6 × 500 = 3 275 - 3 000 = 275 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "theme": "Les arrosoirs du jardin",
+    "enonce": "Yawo a 24 arrosoirs. Chaque arrosoir contient 15 litres d'eau. Il arrose 18 plants avec chaque arrosoir.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de litres d'eau Yawo a-t-il en tout ?",
+        "reponse_correcte": "360",
+        "unite": "litres",
+        "explication": "On multiplie : 24 × 15 = 360 litres."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de plants peut-il arroser avec toute l'eau ?",
+        "reponse_correcte": "432",
+        "unite": "plants",
+        "explication": "On multiplie : 24 × 18 = 432 plants."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "theme": "Les poulets de Kossi",
+    "enonce": "Kossi a 2 460 poulets dans sa ferme. Il vend 1 375 poulets et achète 498 poulets de plus.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de poulets reste-t-il après la vente ?",
+        "reponse_correcte": "1085",
+        "unite": "poulets",
+        "explication": "On soustrait : 2 460 - 1 375 = 1 085 poulets."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de poulets a-t-il maintenant après l'achat ?",
+        "reponse_correcte": "1583",
+        "unite": "poulets",
+        "explication": "On additionne : 1 085 + 498 = 1 583 poulets."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "theme": "Les mangues de la plantation",
+    "enonce": "La plantation d'Ama a 1 875 manguiers. Chaque manguier donne 24 mangues par saison.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de mangues la plantation produit-elle par saison ?",
+        "reponse_correcte": "45000",
+        "unite": "mangues",
+        "explication": "On multiplie : 1 875 × 24 = 45 000 mangues."
+      },
+      {
+        "sous_id": 2,
+        "question": "Si Ama vend les mangues à 15 FCFA pièce, combien gagnera-t-elle ?",
+        "reponse_correcte": "675000",
+        "unite": "FCFA",
+        "explication": "On multiplie : 45 000 × 15 = 675 000 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "theme": "Les cahiers d'école",
+    "enonce": "Ablavi achète 72 cahiers. Chaque cahier coûte 185 FCFA. Elle donne 48 cahiers à ses élèves.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien coûtent les 72 cahiers ?",
+        "reponse_correcte": "13320",
+        "unite": "FCFA",
+        "explication": "On multiplie : 72 × 185 = 13 320 FCFA."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de cahiers lui reste-t-il après avoir donné aux élèves ?",
+        "reponse_correcte": "24",
+        "unite": "cahiers",
+        "explication": "On soustrait : 72 - 48 = 24 cahiers."
+      },
+      {
+        "sous_id": 3,
+        "question": "Quelle est la valeur des cahiers restants ?",
+        "reponse_correcte": "4440",
+        "unite": "FCFA",
+        "explication": "On multiplie : 24 × 185 = 4 440 FCFA."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "theme": "Les noix de cajou",
+    "enonce": "Edem récolte 2 380 noix de cajou. Il en donne 875 à sa mère, 634 à sa grand-mère et vend le reste.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de noix de cajou Edem donne-t-il à sa mère et à sa grand-mère en tout ?",
+        "reponse_correcte": "1509",
+        "unite": "noix",
+        "explication": "On additionne : 875 + 634 = 1 509 noix."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de noix de cajou vend-il ?",
+        "reponse_correcte": "871",
+        "unite": "noix",
+        "explication": "On soustrait : 2 380 - 1 509 = 871 noix."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "theme": "Le transport en camion",
+    "enonce": "Un camion transporte 875 kg de riz. Il fait 5 voyages par jour pendant 6 jours.",
+    "questions": [
+      {
+        "sous_id": 1,
+        "question": "Combien de kg de riz le camion transporte-t-il en un jour ?",
+        "reponse_correcte": "4375",
+        "unite": "kg",
+        "explication": "On multiplie : 875 × 5 = 4 375 kg par jour."
+      },
+      {
+        "sous_id": 2,
+        "question": "Combien de kg de riz transporte-t-il en 6 jours ?",
+        "reponse_correcte": "26250",
+        "unite": "kg",
+        "explication": "On multiplie : 4 375 × 6 = 26 250 kg."
+      }
+    ]
+  }
+]
